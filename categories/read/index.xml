@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📕 阅读 on 自然数</title>
-    <link>https://zrs.me/posts/read/</link>
-    <description>Recent content in 📕 阅读 on 自然数</description>
+    <title>Read on 自然数</title>
+    <link>https://zrs.me/categories/read/</link>
+    <description>Recent content in Read on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:03:00 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 00:03:00 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/read/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Read</title>
       <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</guid>
       <description>可转换债券(可转债) 【性质】 债券性质 股票期权性质 【分类】 不可分离 可分离，债券与股票期权是否可以分离。 【8要素】 1.标的股票(同家公司的债和股) 2.票面利率(一般低于普通债券利率) 3.转换价格(一般比当前股价高10%-30%) 4.转换比率(票面价/转换价) 5.转换期 6.赎回条款(保</description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>https://zrs.me/posts/read/read/</link>
-      <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
-      
-      <guid>https://zrs.me/posts/read/read/</guid>
-      <description></description>
     </item>
     
   </channel>
