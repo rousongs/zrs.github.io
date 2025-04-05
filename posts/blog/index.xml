@@ -43,5 +43,14 @@
       <description>本站使用hugo+github pages搭建； 怎么搭建起来好像已经完全忘记了； hugo版本124，主题模板sulv-hugo-papermod-main； css修改了一个地方。 用最新版hugo，发现替换不可行。 电脑上也没找到下载的124压缩包，只好在github上重新下一个了。 以</description>
     </item>
     
+    <item>
+      <title>hello world</title>
+      <link>https://zrs.me/posts/blog/hello-world/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hello-world/</guid>
+      <description>hello world hello world hello world hello world</description>
+    </item>
+    
   </channel>
 </rss>
