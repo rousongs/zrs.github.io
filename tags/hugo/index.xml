@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 自然数</title>
+    <link>https://zrs.me/tags/hugo/</link>
+    <description>Recent content in Hugo on 自然数</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:08:46 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo的常用命令</title>
+      <link>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>Hugo的常用命令你都知道吗？</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🧱 建站 on 自然数</title>
+    <link>https://zrs.me/posts/blog/</link>
+    <description>Recent content in 🧱 建站 on 自然数</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:08:46 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo的常用命令</title>
+      <link>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>Hugo的常用命令你都知道吗？</description>
+    </item>
+    
+    <item>
+      <title>Hugo优化主题模板的一些内容</title>
+      <link>https://zrs.me/posts/blog/hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:54 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</guid>
+      <description>修改版的papermod主题删减内容</description>
+    </item>
+    
+    <item>
+      <title>重新配置github仓库</title>
+      <link>https://zrs.me/posts/blog/%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</guid>
+      <description>生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。 git init git status git add . git commit -m &amp;ldquo;标记内容&amp;rdquo; git remote add origin https://github.com/rousongs/zrs.github.io.git git push -u origin main 报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧 git branch -M main git push -u origin main 报错 ! [rejected] git push -f origin main 强制</description>
+    </item>
+    
+    <item>
+      <title>hugo在windows下的安装</title>
+      <link>https://zrs.me/posts/blog/hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 05 Apr 2025 17:44:23 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <description>在windows下安装hugo并配置环境变量。</description>
+    </item>
+    
+    <item>
+      <title>再次搭建成功并记一处主题修改内容</title>
+      <link>https://zrs.me/posts/blog/%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</link>
+      <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
+      <description>今天终于搭建成功，还是拿来主义香。 终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod 下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe 一次成功，顺利跑了起来。 能用就好不追新</description>
+    </item>
+    
+    <item>
+      <title>自己再次搭建失败</title>
+      <link>https://zrs.me/posts/blog/%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</link>
+      <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
+      <description>今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。 多次尝试搭建均报错。 看来像我这样的小白需要一个保姆级教程。 还是再回忆回忆去年搭建本站时参考的什么教程吧。 好像papermod主题是直接打包过来的，一次成功。 github上papermod原作者的主题下载回来后h</description>
+    </item>
+    
+    <item>
+      <title>本站的搭建</title>
+      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
+      <description>本站使用hugo+github pages搭建； 怎么搭建起来好像已经完全忘记了； hugo版本124，主题模板sulv-hugo-papermod-main； css修改了一个地方。 用最新版hugo，发现替换不可行。 电脑上也没找到下载的124压缩包，只好在github上重新下一个了。 以</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://zrs.me/posts/blog/hello-world/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/hello-world/</guid>
+      <description>hello world hello world hello world hello world</description>
+    </item>
+    
+  </channel>
+</rss>
