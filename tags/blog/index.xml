@@ -6,7 +6,16 @@
     <description>Recent content in Blog on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 05 Apr 2025 17:44:23 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 02:09:41 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本站的部署</title>
+      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <description>上次写到本站的搭建， 本站使用hugo网站程序和神改版的papermod主题。部署在github pages上。截至目前，搭建已处理比较完备的稳定状态。 第一阶段 单一公开仓库pages部署 在本地修改博客文件，在content目录中写文章，调试完毕后，使用hugo生成public目录，将</description>
+    </item>
+    
     <item>
       <title>hugo在windows下的安装</title>
       <link>https://zrs.me/posts/blog/hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</link>

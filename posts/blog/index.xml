@@ -6,7 +6,16 @@
     <description>Recent content in 🧱 建站 on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 08 Apr 2025 16:25:01 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 02:09:41 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本站的部署</title>
+      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <description>上次写到本站的搭建， 本站使用hugo网站程序和神改版的papermod主题。部署在github pages上。截至目前，搭建已处理比较完备的稳定状态。 第一阶段 单一公开仓库pages部署 在本地修改博客文件，在content目录中写文章，调试完毕后，使用hugo生成public目录，将</description>
+    </item>
+    
     <item>
       <title>本套模板目前发现问题</title>
       <link>https://zrs.me/posts/blog/%E6%9C%AC%E5%A5%97%E6%A8%A1%E6%9D%BF%E7%9B%AE%E5%89%8D%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98/</link>
