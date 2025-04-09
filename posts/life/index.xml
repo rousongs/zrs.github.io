@@ -6,7 +6,16 @@
     <description>Recent content in 🏖 生活 on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 04 Apr 2025 01:40:00 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 17:51:10 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>结束了office365，换上了WPS</title>
+      <link>https://zrs.me/posts/life/%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</link>
+      <pubDate>Wed, 09 Apr 2025 17:51:10 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/life/%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</guid>
+      <description>office365到期后体验WPS的日常</description>
+    </item>
+    
     <item>
       <title>hugo与wp,ty的体验感受</title>
       <link>https://zrs.me/posts/life/hugo%E4%B8%8Ewpty%E7%9A%84%E4%BD%93%E9%AA%8C%E6%84%9F%E5%8F%97/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://zrs.me/posts/life/%E7%AB%A5%E8%B6%A3/</guid>
       <description>余忆童稚时，能张目对日。</description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://zrs.me/posts/life/life/</link>
-      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
-      
-      <guid>https://zrs.me/posts/life/life/</guid>
-      <description></description>
     </item>
     
   </channel>
