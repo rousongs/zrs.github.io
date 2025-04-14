@@ -6,7 +6,16 @@
     <description>Recent content in 建站 on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 09 Apr 2025 02:09:41 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:44:29 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本地编辑器vs Code</title>
+      <link>https://zrs.me/posts/blog/%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</link>
+      <pubDate>Tue, 15 Apr 2025 00:44:29 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</guid>
+      <description>使用vs code写博客</description>
+    </item>
+    
     <item>
       <title>本站的部署</title>
       <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
