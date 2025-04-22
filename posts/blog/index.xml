@@ -6,7 +6,16 @@
     <description>Recent content in 🧱 建站 on 自然数</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Apr 2025 00:44:29 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 03:12:04 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客部署至vercel</title>
+      <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>
+      <pubDate>Wed, 23 Apr 2025 03:12:04 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</guid>
+      <description>之前部署在github pages上，这次试一下部署到vercel</description>
+    </item>
+    
     <item>
       <title>本地编辑器vs Code</title>
       <link>https://zrs.me/posts/blog/%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</link>
