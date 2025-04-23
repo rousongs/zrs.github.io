@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on 自然数</title>
+    <title>Blog on 这人帅么</title>
     <link>https://zrs.me/tags/blog/</link>
-    <description>Recent content in Blog on 自然数</description>
+    <description>Recent content in Blog on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 23 Apr 2025 03:12:04 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 12:02:15 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客起了个新名字</title>
+      <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</link>
+      <pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</guid>
+      <description>博客起了新名字，大家鉴赏一下。</description>
+    </item>
+    
     <item>
       <title>博客部署至vercel</title>
       <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>

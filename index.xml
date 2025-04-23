@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>自然数</title>
+    <title>这人帅么</title>
     <link>https://zrs.me/</link>
-    <description>Recent content on 自然数</description>
+    <description>Recent content on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 23 Apr 2025 03:12:04 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 12:02:15 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客起了个新名字</title>
+      <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</link>
+      <pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</guid>
+      <description>博客起了新名字，大家鉴赏一下。</description>
+    </item>
+    
     <item>
       <title>博客部署至vercel</title>
       <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>
@@ -175,7 +184,7 @@
       <pubDate>Tue, 01 Apr 2025 23:59:59 +0800</pubDate>
       
       <guid>https://zrs.me/about/</guid>
-      <description>关于我 昵称: 自然数 职业: 不详 运动: 吃&amp;amp;睡 游戏: 德铁，欧卡 生活技能: ★★★★★ 社交技能: ✰ 本站是学习hugo的测试站点，目前还没有学会。 想了解作者的更多文章，移步https://rousongs.com。</description>
+      <description>关于我 昵称: 自然数 职业: 不详 运动: 吃&amp;amp;睡 游戏: 德铁，欧卡 生活技能: ★★★★★ 社交技能: ✰ 本站是学习hugo的测试站点，目前还没有学会。 想了解作者的更多文章，移步https://zrs.xyz。</description>
     </item>
     
     <item>
@@ -211,7 +220,7 @@
       <pubDate>Mon, 01 Apr 2024 15:15:53 +0800</pubDate>
       
       <guid>https://zrs.me/links/</guid>
-      <description>自然数 一个记录技术、阅读、生活的博客 肉松的站 曾经我也有一个伟大的梦想 👉友链格式 名称： 自然数的小宇宙 网址： https://zrs.me 图标： https://zrs.me/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告&amp;hellip; 鉴于本站为测试性站点，友链的事就算了吧。 👉友链 肉松的站</description>
+      <description>自然数 一个记录技术、阅读、生活的博客 自然数的小宇宙 曾经我也有一个伟大的梦想 👉友链格式 名称： 自然数的小宇宙 网址： https://zrs.me 图标： https://zrs.me/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告&amp;hellip; 鉴于本站为测试性站点，友链的事就算了吧。 👉友链 肉</description>
     </item>
     
     <item>
