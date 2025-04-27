@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>评论 on 这人帅么</title>
+    <link>https://zrs.me/tags/%E8%AF%84%E8%AE%BA/</link>
+    <description>Recent content in 评论 on 这人帅么</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 27 Apr 2025 09:56:08 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/%E8%AF%84%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twikoo评论系统的部署</title>
+      <link>https://zrs.me/posts/blog/twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Sun, 27 Apr 2025 09:56:08 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <description>在AI的指导下，部署本站的Twikoo评论系统</description>
+    </item>
+    
+  </channel>
+</rss>
