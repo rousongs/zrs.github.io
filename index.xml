@@ -6,220 +6,229 @@
     <description>Recent content on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 29 Apr 2025 13:24:59 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 01:29:19 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>优化博客文章md文件的排序</title>
+      <link>https://zrs.me/posts/blog/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F/</link>
+      <pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate>
+      
+      <guid>https://zrs.me/posts/blog/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F/</guid>
+      <description>优化博客文章md文件的排序</description>
+    </item>
+    
     <item>
       <title>又从零开始尝试搭建博客</title>
-      <link>https://zrs.me/posts/blog/%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://zrs.me/posts/blog/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Tue, 29 Apr 2025 13:24:59 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>上次搭建基于保姆级教程，把别人的全套模板搬过来hugo一下就OK了。本次尝试在github上下载最新的主题和hugo手动搭建。</description>
     </item>
     
     <item>
       <title>本站申请了萌国备案</title>
-      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</link>
+      <link>https://zrs.me/posts/blog/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</link>
       <pubDate>Tue, 29 Apr 2025 00:35:37 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</guid>
       <description>本站申请了萌国备案</description>
     </item>
     
     <item>
       <title>静态博客让人更专注于写作</title>
-      <link>https://zrs.me/posts/life/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E8%AE%A9%E4%BA%BA%E6%9B%B4%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%86%99%E4%BD%9C/</link>
+      <link>https://zrs.me/posts/life/2025-04-27-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E8%AE%A9%E4%BA%BA%E6%9B%B4%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%86%99%E4%BD%9C/</link>
       <pubDate>Sun, 27 Apr 2025 22:58:32 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/life/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E8%AE%A9%E4%BA%BA%E6%9B%B4%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%86%99%E4%BD%9C/</guid>
+      <guid>https://zrs.me/posts/life/2025-04-27-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E8%AE%A9%E4%BA%BA%E6%9B%B4%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%86%99%E4%BD%9C/</guid>
       <description>相比动态博客，静态博客更让人专注于写作！</description>
     </item>
     
     <item>
       <title>Twikoo评论系统的部署</title>
-      <link>https://zrs.me/posts/blog/twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <link>https://zrs.me/posts/blog/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
       <pubDate>Sun, 27 Apr 2025 09:56:08 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
       <description>在AI的指导下，部署本站的Twikoo评论系统</description>
     </item>
     
     <item>
       <title>我为什么信道不信佛</title>
-      <link>https://zrs.me/posts/life/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E9%81%93%E4%B8%8D%E4%BF%A1%E4%BD%9B/</link>
+      <link>https://zrs.me/posts/life/2025-04-24-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E9%81%93%E4%B8%8D%E4%BF%A1%E4%BD%9B/</link>
       <pubDate>Thu, 24 Apr 2025 12:21:40 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/life/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E9%81%93%E4%B8%8D%E4%BF%A1%E4%BD%9B/</guid>
+      <guid>https://zrs.me/posts/life/2025-04-24-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E9%81%93%E4%B8%8D%E4%BF%A1%E4%BD%9B/</guid>
       <description>我为什么信道不信佛</description>
     </item>
     
     <item>
       <title>博客起了个新名字</title>
-      <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</link>
+      <link>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</link>
       <pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</guid>
       <description>博客起了新名字，大家鉴赏一下。</description>
     </item>
     
     <item>
       <title>博客部署至vercel</title>
-      <link>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>
+      <link>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>
       <pubDate>Wed, 23 Apr 2025 03:12:04 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</guid>
       <description>之前部署在github pages上，这次试一下部署到vercel</description>
     </item>
     
     <item>
       <title>学习-实务-无形资产</title>
-      <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E6%97%A0%E5%BD%A2%E8%B5%84%E4%BA%A7/</link>
+      <link>https://zrs.me/posts/read/2025-04-21-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E6%97%A0%E5%BD%A2%E8%B5%84%E4%BA%A7/</link>
       <pubDate>Mon, 21 Apr 2025 21:46:06 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E6%97%A0%E5%BD%A2%E8%B5%84%E4%BA%A7/</guid>
+      <guid>https://zrs.me/posts/read/2025-04-21-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E6%97%A0%E5%BD%A2%E8%B5%84%E4%BA%A7/</guid>
       <description>无形资产的核算方面与固定资产类似，要简单一些。</description>
     </item>
     
     <item>
       <title>本地编辑器vs Code</title>
-      <link>https://zrs.me/posts/blog/%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</link>
+      <link>https://zrs.me/posts/blog/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</link>
       <pubDate>Tue, 15 Apr 2025 00:44:29 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</guid>
       <description>使用vs code写博客</description>
     </item>
     
     <item>
       <title>学习 实务 固定资产</title>
-      <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7/</link>
+      <link>https://zrs.me/posts/read/2025-04-13-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7/</link>
       <pubDate>Sun, 13 Apr 2025 23:35:38 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7/</guid>
+      <guid>https://zrs.me/posts/read/2025-04-13-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7/</guid>
       <description>固定资产是必考的基础章节，通常与所得税联系在一起。</description>
     </item>
     
     <item>
       <title>学习-实务-存货委托加工中的消费税</title>
-      <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%AD%98%E8%B4%A7%E5%A7%94%E6%89%98%E5%8A%A0%E5%B7%A5%E4%B8%AD%E7%9A%84%E6%B6%88%E8%B4%B9%E7%A8%8E/</link>
+      <link>https://zrs.me/posts/read/2025-04-13-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%AD%98%E8%B4%A7%E5%A7%94%E6%89%98%E5%8A%A0%E5%B7%A5%E4%B8%AD%E7%9A%84%E6%B6%88%E8%B4%B9%E7%A8%8E/</link>
       <pubDate>Sun, 13 Apr 2025 02:28:42 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%AD%98%E8%B4%A7%E5%A7%94%E6%89%98%E5%8A%A0%E5%B7%A5%E4%B8%AD%E7%9A%84%E6%B6%88%E8%B4%B9%E7%A8%8E/</guid>
+      <guid>https://zrs.me/posts/read/2025-04-13-%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E5%8A%A1-%E5%AD%98%E8%B4%A7%E5%A7%94%E6%89%98%E5%8A%A0%E5%B7%A5%E4%B8%AD%E7%9A%84%E6%B6%88%E8%B4%B9%E7%A8%8E/</guid>
       <description>委托加工中涉及到的消费税是否计入存货成本</description>
     </item>
     
     <item>
       <title>结束了office365，换上了WPS</title>
-      <link>https://zrs.me/posts/life/%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</link>
+      <link>https://zrs.me/posts/life/2025-04-09-%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</link>
       <pubDate>Wed, 09 Apr 2025 17:51:10 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/life/%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</guid>
+      <guid>https://zrs.me/posts/life/2025-04-09-%E7%BB%93%E6%9D%9F%E4%BA%86office365%E6%8D%A2%E4%B8%8A%E4%BA%86wps/</guid>
       <description>office365到期后体验WPS的日常</description>
     </item>
     
     <item>
       <title>本站的部署</title>
-      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <link>https://zrs.me/posts/blog/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
       <pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
       <description>上次写到本站的搭建， 本站使用hugo网站程序和sulv改版的papermod主题。部署在github pages上。截至目前，搭建已处于比较完备的稳定状态。</description>
     </item>
     
     <item>
       <title>本套模板目前发现问题</title>
-      <link>https://zrs.me/posts/blog/%E6%9C%AC%E5%A5%97%E6%A8%A1%E6%9D%BF%E7%9B%AE%E5%89%8D%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98/</link>
+      <link>https://zrs.me/posts/blog/2025-04-08-%E6%9C%AC%E5%A5%97%E6%A8%A1%E6%9D%BF%E7%9B%AE%E5%89%8D%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98/</link>
       <pubDate>Tue, 08 Apr 2025 16:25:01 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E5%A5%97%E6%A8%A1%E6%9D%BF%E7%9B%AE%E5%89%8D%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-08-%E6%9C%AC%E5%A5%97%E6%A8%A1%E6%9D%BF%E7%9B%AE%E5%89%8D%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98/</guid>
       <description>本套模板目前发现问题</description>
     </item>
     
     <item>
       <title>学习-财务管理-衍生工具筹资-认股权证、优先股</title>
-      <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E8%AE%A4%E8%82%A1%E6%9D%83%E8%AF%81%E4%BC%98%E5%85%88%E8%82%A1/</link>
+      <link>https://zrs.me/posts/read/2025-04-08-%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E8%AE%A4%E8%82%A1%E6%9D%83%E8%AF%81%E4%BC%98%E5%85%88%E8%82%A1/</link>
       <pubDate>Tue, 08 Apr 2025 01:07:51 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E8%AE%A4%E8%82%A1%E6%9D%83%E8%AF%81%E4%BC%98%E5%85%88%E8%82%A1/</guid>
+      <guid>https://zrs.me/posts/read/2025-04-08-%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E8%AE%A4%E8%82%A1%E6%9D%83%E8%AF%81%E4%BC%98%E5%85%88%E8%82%A1/</guid>
       <description>衍生工具筹资 认股权证、优先股 以及 资本成本高低比较</description>
     </item>
     
     <item>
       <title>Hugo的常用命令</title>
-      <link>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <link>https://zrs.me/posts/blog/2025-04-08-hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
       <pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-08-hugo%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
       <description>Hugo的常用命令你都知道吗？</description>
     </item>
     
     <item>
       <title>Hugo优化主题模板的一些内容</title>
-      <link>https://zrs.me/posts/blog/hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</link>
+      <link>https://zrs.me/posts/blog/2025-04-08-hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:54 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-08-hugo%E4%BC%98%E5%8C%96%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E5%AE%B9/</guid>
       <description>修改版的papermod主题删减内容</description>
     </item>
     
     <item>
       <title>重新配置github仓库</title>
-      <link>https://zrs.me/posts/blog/%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</link>
+      <link>https://zrs.me/posts/blog/2025-04-05-%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</link>
       <pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-05-%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</guid>
       <description>生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。 git init git status git add . git commit -m &amp;ldquo;标记内容&amp;rdquo; git remote add origin https://github.com/rousongs/zrs.github.io.git git push -u origin main 报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧 git branch -M main git push -u origin main 报错 ! [rejected] git push -f origin main 强制</description>
     </item>
     
     <item>
       <title>hugo在windows下的安装</title>
-      <link>https://zrs.me/posts/blog/hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <link>https://zrs.me/posts/blog/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</link>
       <pubDate>Sat, 05 Apr 2025 17:44:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
       <description>在windows下安装hugo并配置环境变量。</description>
     </item>
     
     <item>
       <title>学习-财务管理-衍生工具筹资-可转换债券</title>
-      <link>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</link>
+      <link>https://zrs.me/posts/read/2025-04-05-%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</link>
       <pubDate>Sat, 05 Apr 2025 00:03:00 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</guid>
+      <guid>https://zrs.me/posts/read/2025-04-05-%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E7%AD%B9%E8%B5%84-%E5%8F%AF%E8%BD%AC%E6%8D%A2%E5%80%BA%E5%88%B8/</guid>
       <description>可转换债券  性质  分类  要素  优点  缺点</description>
     </item>
     
     <item>
       <title>hugo与wp,ty的体验感受</title>
-      <link>https://zrs.me/posts/life/hugo%E4%B8%8Ewpty%E7%9A%84%E4%BD%93%E9%AA%8C%E6%84%9F%E5%8F%97/</link>
+      <link>https://zrs.me/posts/life/2025-04-04-hugo%E4%B8%8Ewpty%E7%9A%84%E4%BD%93%E9%AA%8C%E6%84%9F%E5%8F%97/</link>
       <pubDate>Fri, 04 Apr 2025 01:40:00 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/life/hugo%E4%B8%8Ewpty%E7%9A%84%E4%BD%93%E9%AA%8C%E6%84%9F%E5%8F%97/</guid>
+      <guid>https://zrs.me/posts/life/2025-04-04-hugo%E4%B8%8Ewpty%E7%9A%84%E4%BD%93%E9%AA%8C%E6%84%9F%E5%8F%97/</guid>
       <description>聊一聊hugo与wp,ty的主观体验感受的不同</description>
     </item>
     
     <item>
       <title>再次搭建成功并记一处主题修改内容</title>
-      <link>https://zrs.me/posts/blog/%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</link>
+      <link>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</link>
       <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
       <description>今天终于搭建成功，还是拿来主义香。 终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod 下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe 一次成功，顺利跑了起来。 能用就好不追新</description>
     </item>
     
     <item>
       <title>自己再次搭建失败</title>
-      <link>https://zrs.me/posts/blog/%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</link>
+      <link>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</link>
       <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
       <description>今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。 多次尝试搭建均报错。 看来像我这样的小白需要一个保姆级教程。 还是再回忆回忆去年搭建本站时参考的什么教程吧。 好像papermod主题是直接打包过来的，一次成功。 github上papermod原作者的主题下载回来后h</description>
     </item>
     
     <item>
       <title>本站的搭建</title>
-      <link>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
+      <link>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
+      <guid>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
       <description>本站使用hugo+github pages搭建； 怎么搭建起来好像已经完全忘记了； hugo版本124，主题模板sulv-hugo-papermod-main； css修改了一个地方。 用最新版hugo，发现替换不可行。 电脑上也没找到下载的124压缩包，只好在github上重新下一个了。 以</description>
     </item>
     
@@ -234,28 +243,28 @@
     
     <item>
       <title>童趣</title>
-      <link>https://zrs.me/posts/life/%E7%AB%A5%E8%B6%A3/</link>
+      <link>https://zrs.me/posts/life/2025-03-31-%E7%AB%A5%E8%B6%A3/</link>
       <pubDate>Mon, 31 Mar 2025 00:18:15 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/life/%E7%AB%A5%E8%B6%A3/</guid>
+      <guid>https://zrs.me/posts/life/2025-03-31-%E7%AB%A5%E8%B6%A3/</guid>
       <description>余忆童稚时，能张目对日。</description>
     </item>
     
     <item>
       <title>【AI】DeepSeek的回答让我一惊</title>
-      <link>https://zrs.me/posts/tech/tech---aideepseek%E7%9A%84%E5%9B%9E%E7%AD%94%E8%AE%A9%E6%88%91%E4%B8%80%E6%83%8A/</link>
+      <link>https://zrs.me/posts/tech/2025-03-31-aideepseek%E7%9A%84%E5%9B%9E%E7%AD%94%E8%AE%A9%E6%88%91%E4%B8%80%E6%83%8A/</link>
       <pubDate>Mon, 31 Mar 2025 00:17:58 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/tech/tech---aideepseek%E7%9A%84%E5%9B%9E%E7%AD%94%E8%AE%A9%E6%88%91%E4%B8%80%E6%83%8A/</guid>
+      <guid>https://zrs.me/posts/tech/2025-03-31-aideepseek%E7%9A%84%E5%9B%9E%E7%AD%94%E8%AE%A9%E6%88%91%E4%B8%80%E6%83%8A/</guid>
       <description>科技代码</description>
     </item>
     
     <item>
       <title>hello world</title>
-      <link>https://zrs.me/posts/blog/hello-world/</link>
+      <link>https://zrs.me/posts/blog/2024-09-02-hello-world/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/hello-world/</guid>
+      <guid>https://zrs.me/posts/blog/2024-09-02-hello-world/</guid>
       <description>hello world hello world hello world hello world hello world hello world hello world</description>
     </item>
     
@@ -270,10 +279,10 @@
     
     <item>
       <title>Read</title>
-      <link>https://zrs.me/posts/read/read/</link>
+      <link>https://zrs.me/posts/read/2022-05-05-read/</link>
       <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/read/read/</guid>
+      <guid>https://zrs.me/posts/read/2022-05-05-read/</guid>
       <description></description>
     </item>
     
