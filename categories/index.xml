@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 30 Apr 2025 01:29:19 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 May 2025 20:10:43 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read</title>
+      <link>https://zrs.me/categories/read/</link>
+      <pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate>
+      
+      <guid>https://zrs.me/categories/read/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>建站</title>
       <link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 27 Apr 2025 22:58:32 +0800</pubDate>
       
       <guid>https://zrs.me/categories/%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>https://zrs.me/categories/read/</link>
-      <pubDate>Mon, 21 Apr 2025 21:46:06 +0800</pubDate>
-      
-      <guid>https://zrs.me/categories/read/</guid>
       <description></description>
     </item>
     
