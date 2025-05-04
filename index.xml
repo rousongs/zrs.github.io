@@ -13,7 +13,15 @@
       <pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate>
       
       <guid>https://zrs.me/posts/read/2025-05-02-%E5%AD%A6%E4%B9%A0-%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86-%E7%AD%B9%E8%B5%84%E7%AE%A1%E7%90%86%E4%B8%8B/</guid>
-      <description>第一节 资金需要量的预测 因素分析法 又称分析调法，根据预算年度生产经营和资金周转加速的要求，进行分析调整。 公式： 资金需要量=（基期平均资金用量-不合理的资金占用量）×（1+预测销售增长率）÷（1+预测资金周转速度增长率） （基期平均资金用量-不合理的资金占用量） 可视为基期合理的资金占用</description>
+      <description>&lt;h2 id=&#34;第一节-资金需要量的预测&#34;&gt;第一节 资金需要量的预测&lt;/h2&gt;
+&lt;h4 id=&#34;因素分析法&#34;&gt;因素分析法&lt;/h4&gt;
+&lt;p&gt;又称分析调法，根据预算年度生产经营和资金周转加速的要求，进行分析调整。&lt;br&gt;
+公式：&lt;br&gt;
+&lt;strong&gt;资金需要量=（基期平均资金用量-不合理的资金占用量）×（1+预测销售增长率）÷（1+预测资金周转速度增长率）&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;（基期平均资金用量-不合理的资金占用量）&lt;/strong&gt; 可视为基期合理的资金占用量。&lt;br&gt;
+（计算时如果给出资金周转速度减慢或销售增长降低，则为负号，按减法计算）
+特点：计算简便，易于掌握，但预测结果不太精确。&lt;br&gt;
+适用：品种繁多，规格复杂，资金占用量较小的项目。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -184,7 +192,19 @@
       <pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-05-%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</guid>
-      <description>生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。 git init git status git add . git commit -m &amp;ldquo;标记内容&amp;rdquo; git remote add origin https://github.com/rousongs/zrs.github.io.git git push -u origin main 报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧 git branch -M main git push -u origin main 报错 ! [rejected] git push -f origin main 强制</description>
+      <description>&lt;p&gt;生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git init&lt;/li&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -m &amp;ldquo;标记内容&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote add origin &lt;a href=&#34;https://github.com/rousongs/zrs.github.io.git&#34;&gt;https://github.com/rousongs/zrs.github.io.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧&lt;/li&gt;
+&lt;li&gt;git branch -M main&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 ! [rejected]&lt;/li&gt;
+&lt;li&gt;git push -f origin main   强制推送&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果在线有修改文件，git push 可能也会报rejected，此时先git pull一下，再git push&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -220,7 +240,11 @@
       <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
-      <description>今天终于搭建成功，还是拿来主义香。 终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod 下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe 一次成功，顺利跑了起来。 能用就好不追新</description>
+      <description>&lt;p&gt;今天终于搭建成功，还是拿来主义香。&lt;/p&gt;
+&lt;p&gt;终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod&lt;/p&gt;
+&lt;p&gt;下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe&lt;/p&gt;
+&lt;p&gt;一次成功，顺利跑了起来。&lt;/p&gt;
+&lt;p&gt;能用就好不追新了，反正是个静态博客。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -229,7 +253,12 @@
       <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
-      <description>今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。 多次尝试搭建均报错。 看来像我这样的小白需要一个保姆级教程。 还是再回忆回忆去年搭建本站时参考的什么教程吧。 好像papermod主题是直接打包过来的，一次成功。 github上papermod原作者的主题下载回来后h</description>
+      <description>&lt;p&gt;今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。&lt;/p&gt;
+&lt;p&gt;多次尝试搭建均报错。&lt;/p&gt;
+&lt;p&gt;看来像我这样的小白需要一个保姆级教程。&lt;/p&gt;
+&lt;p&gt;还是再回忆回忆去年搭建本站时参考的什么教程吧。&lt;/p&gt;
+&lt;p&gt;好像papermod主题是直接打包过来的，一次成功。&lt;/p&gt;
+&lt;p&gt;github上papermod原作者的主题下载回来后hugo一会提示是124版本生成的，一会又提示128版本生成的。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -238,7 +267,13 @@
       <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
-      <description>本站使用hugo+github pages搭建； 怎么搭建起来好像已经完全忘记了； hugo版本124，主题模板sulv-hugo-papermod-main； css修改了一个地方。 用最新版hugo，发现替换不可行。 电脑上也没找到下载的124压缩包，只好在github上重新下一个了。 以</description>
+      <description>&lt;p&gt;本站使用hugo+github pages搭建；&lt;/p&gt;
+&lt;p&gt;怎么搭建起来好像已经完全忘记了；&lt;/p&gt;
+&lt;p&gt;hugo版本124，主题模板sulv-hugo-papermod-main；&lt;/p&gt;
+&lt;p&gt;css修改了一个地方。&lt;/p&gt;
+&lt;p&gt;用最新版hugo，发现替换不可行。&lt;/p&gt;
+&lt;p&gt;电脑上也没找到下载的124压缩包，只好在github上重新下一个了。&lt;/p&gt;
+&lt;p&gt;以上。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -247,7 +282,43 @@
       <pubDate>Tue, 01 Apr 2025 23:59:59 +0800</pubDate>
       
       <guid>https://zrs.me/about/</guid>
-      <description>关于我 昵称: 自然数 职业: 不详 运动: 吃&amp;amp;睡 游戏: 德铁，欧卡 生活技能: ★★★★★ 社交技能: ✰ 本站是学习hugo的测试站点，基于hugo和papermod主题，在deepseek的技术帮助下搭建。主要用于记录hugo记录搭建过程以及日常的学习笔记。 想了解作者的更多文章，移步ht</description>
+      <description>&lt;p style=&#34;font-size: 25px;&#34;&gt;关于我&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;昵称:&lt;/td&gt;
+          &lt;td&gt;自然数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;职业:&lt;/td&gt;
+          &lt;td&gt;不详&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;运动:&lt;/td&gt;
+          &lt;td&gt;吃&amp;amp;睡&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;游戏:&lt;/td&gt;
+          &lt;td&gt;德铁，欧卡&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;生活技能:&lt;/td&gt;
+          &lt;td&gt;★★★★★&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;社交技能:&lt;/td&gt;
+          &lt;td&gt;✰&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;本站是学习hugo的测试站点，基于hugo和papermod主题，在deepseek的技术帮助下搭建。主要用于记录hugo记录搭建过程以及日常的学习笔记。&lt;/p&gt;
+&lt;p&gt;想了解作者的更多文章，移步&lt;a href=&#34;https://zrs.xyz/&#34;&gt;https://zrs.xyz&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -274,7 +345,28 @@
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2024-09-02-hello-world/</guid>
-      <description>hello world hello world hello world hello world hello world hello world hello world</description>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
+&lt;h2 id=&#34;hello-world-1&#34;&gt;hello world&lt;/h2&gt;
+&lt;h3 id=&#34;hello-world-2&#34;&gt;hello world&lt;/h3&gt;
+&lt;h2 id=&#34;hello-world-3&#34;&gt;hello world&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;hello&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;world&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;hello&lt;/td&gt;
+          &lt;td&gt;world&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;hello&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;world&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>
@@ -283,7 +375,83 @@
       <pubDate>Mon, 01 Apr 2024 15:15:53 +0800</pubDate>
       
       <guid>https://zrs.me/links/</guid>
-      <description>自然数 一个记录技术、阅读、生活的博客 自然数的小宇宙 曾经我也有一个伟大的梦想 👉友链格式 名称： 自然数的小宇宙 网址： https://zrs.me 图标： https://zrs.me/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告&amp;hellip; 鉴于本站为测试性站点，友链的事就算了吧。 👉友链 肉</description>
+      <description>&lt;div class=&#34;friend&#34;&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=https://zrs.me title=自然数 class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://zrs.me/img/Q.gif /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;自然数&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;一个记录技术、阅读、生活的博客&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+
+&lt;br/&gt;&lt;/p&gt;
+&lt;a target=&#34;_blank&#34; href=https://zrs.xyz title=自然数的小宇宙 class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://tcc.zrs.xyz/rsfavw.png /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;自然数的小宇宙&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;曾经我也有一个伟大的梦想&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div style=&#34;font-size: 20px;&#34; class=&#34;youlian&#34;&gt;👉友链格式&lt;/div&gt;
+&lt;div style=&#34;font-size: 16px;&#34;&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;名称：&lt;/td&gt;
+          &lt;td&gt;自然数的小宇宙&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;网址：&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://zrs.me&#34;&gt;https://zrs.me&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;图标：&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://zrs.me/img/Q.gif&#34;&gt;https://zrs.me/img/Q.gif&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;描述：&lt;/td&gt;
+          &lt;td&gt;一个记录技术、阅读、生活的博客&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;div style=&#34;font-size: 20px;&#34;&gt;👉友链申请要求&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;秉承互换友链原则、文章定期更新、不能有太多广告&amp;hellip;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉴于本站为测试性站点，友链的事就算了吧。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;div style=&#34;font-size: 20px;&#34;&gt;👉友链&lt;/div&gt;
+&lt;a target=&#34;_blank&#34; href=https://zrs.xyz title=肉松的站 class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://tcc.zrs.xyz/rsfavw.png /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;肉松的站&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;曾经我也有一个伟大的梦想&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;</description>
     </item>
     
     <item>
@@ -293,15 +461,6 @@
       
       <guid>https://zrs.me/posts/read/2022-05-05-read/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://zrs.me/posts/tech/tech/</link>
-      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
-      
-      <guid>https://zrs.me/posts/tech/tech/</guid>
-      <description>科技代码</description>
     </item>
     
     

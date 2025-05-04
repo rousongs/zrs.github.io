@@ -112,7 +112,19 @@
       <pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-05-%E9%87%8D%E6%96%B0%E9%85%8D%E7%BD%AEgithub%E4%BB%93%E5%BA%93/</guid>
-      <description>生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。 git init git status git add . git commit -m &amp;ldquo;标记内容&amp;rdquo; git remote add origin https://github.com/rousongs/zrs.github.io.git git push -u origin main 报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧 git branch -M main git push -u origin main 报错 ! [rejected] git push -f origin main 强制</description>
+      <description>&lt;p&gt;生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git init&lt;/li&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -m &amp;ldquo;标记内容&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote add origin &lt;a href=&#34;https://github.com/rousongs/zrs.github.io.git&#34;&gt;https://github.com/rousongs/zrs.github.io.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧&lt;/li&gt;
+&lt;li&gt;git branch -M main&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 ! [rejected]&lt;/li&gt;
+&lt;li&gt;git push -f origin main   强制推送&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果在线有修改文件，git push 可能也会报rejected，此时先git pull一下，再git push&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -130,7 +142,11 @@
       <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
-      <description>今天终于搭建成功，还是拿来主义香。 终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod 下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe 一次成功，顺利跑了起来。 能用就好不追新</description>
+      <description>&lt;p&gt;今天终于搭建成功，还是拿来主义香。&lt;/p&gt;
+&lt;p&gt;终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod&lt;/p&gt;
+&lt;p&gt;下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe&lt;/p&gt;
+&lt;p&gt;一次成功，顺利跑了起来。&lt;/p&gt;
+&lt;p&gt;能用就好不追新了，反正是个静态博客。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -139,7 +155,12 @@
       <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
-      <description>今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。 多次尝试搭建均报错。 看来像我这样的小白需要一个保姆级教程。 还是再回忆回忆去年搭建本站时参考的什么教程吧。 好像papermod主题是直接打包过来的，一次成功。 github上papermod原作者的主题下载回来后h</description>
+      <description>&lt;p&gt;今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。&lt;/p&gt;
+&lt;p&gt;多次尝试搭建均报错。&lt;/p&gt;
+&lt;p&gt;看来像我这样的小白需要一个保姆级教程。&lt;/p&gt;
+&lt;p&gt;还是再回忆回忆去年搭建本站时参考的什么教程吧。&lt;/p&gt;
+&lt;p&gt;好像papermod主题是直接打包过来的，一次成功。&lt;/p&gt;
+&lt;p&gt;github上papermod原作者的主题下载回来后hugo一会提示是124版本生成的，一会又提示128版本生成的。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -148,7 +169,13 @@
       <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
-      <description>本站使用hugo+github pages搭建； 怎么搭建起来好像已经完全忘记了； hugo版本124，主题模板sulv-hugo-papermod-main； css修改了一个地方。 用最新版hugo，发现替换不可行。 电脑上也没找到下载的124压缩包，只好在github上重新下一个了。 以</description>
+      <description>&lt;p&gt;本站使用hugo+github pages搭建；&lt;/p&gt;
+&lt;p&gt;怎么搭建起来好像已经完全忘记了；&lt;/p&gt;
+&lt;p&gt;hugo版本124，主题模板sulv-hugo-papermod-main；&lt;/p&gt;
+&lt;p&gt;css修改了一个地方。&lt;/p&gt;
+&lt;p&gt;用最新版hugo，发现替换不可行。&lt;/p&gt;
+&lt;p&gt;电脑上也没找到下载的124压缩包，只好在github上重新下一个了。&lt;/p&gt;
+&lt;p&gt;以上。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -157,7 +184,28 @@
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
       
       <guid>https://zrs.me/posts/blog/2024-09-02-hello-world/</guid>
-      <description>hello world hello world hello world hello world hello world hello world hello world</description>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
+&lt;h2 id=&#34;hello-world-1&#34;&gt;hello world&lt;/h2&gt;
+&lt;h3 id=&#34;hello-world-2&#34;&gt;hello world&lt;/h3&gt;
+&lt;h2 id=&#34;hello-world-3&#34;&gt;hello world&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;hello&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;world&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;hello&lt;/td&gt;
+          &lt;td&gt;world&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;hello&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;world&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
   </channel>
