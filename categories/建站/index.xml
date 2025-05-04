@@ -8,11 +8,11 @@
     <language>zh</language>
     <lastBuildDate>Mon, 05 May 2025 02:24:23 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2025 05 05 对于hugo版本的认识</title>
-      <link>https://zrs.me/2025-05-05-2025-05-05-%E5%AF%B9%E4%BA%8Ehugo%E7%89%88%E6%9C%AC%E7%9A%84%E8%AE%A4%E8%AF%86.html</link>
+      <title>对于hugo版本的认识</title>
+      <link>https://zrs.me/2025-05-05-%E5%AF%B9%E4%BA%8Ehugo%E7%89%88%E6%9C%AC%E7%9A%84%E8%AE%A4%E8%AF%86.html</link>
       <pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate>
       
-      <guid>https://zrs.me/2025-05-05-2025-05-05-%E5%AF%B9%E4%BA%8Ehugo%E7%89%88%E6%9C%AC%E7%9A%84%E8%AE%A4%E8%AF%86.html</guid>
+      <guid>https://zrs.me/2025-05-05-%E5%AF%B9%E4%BA%8Ehugo%E7%89%88%E6%9C%AC%E7%9A%84%E8%AE%A4%E8%AF%86.html</guid>
       <description>&lt;p&gt;4月29日&lt;a href=&#34;1&#34;&gt;又从零开始尝试搭建博客&lt;/a&gt;，并且写文章进行了记录，结合4月4日的文章&lt;a href=&#34;2&#34;&gt;《再次搭建成功并记一处主题修改内容》&lt;/a&gt;，对于hugo博客程序有了新的思考。&lt;/p&gt;
 &lt;p&gt;hugo的版本迭代很快，几天就会出一个新版本，在更新个迭代中逐渐淘汰一些旧的参数和语法，新增一些新的参数语法等内容。其实主题无所谓多少版本，首次搭建时使用与主题更新差不多日期的hugo版本，基本都能搭建成功。然后可以逐渐升级hugo版本，根据报错的内容去调整一下相应的config.yml的设置，或者模板中的一些参数或是短链接的写法等内容，修改后基本都能去除警报或错误，这样主题也就跟进适配了新版本hugo。&lt;/p&gt;</description>
     </item>
