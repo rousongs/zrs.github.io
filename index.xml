@@ -301,43 +301,19 @@
       <pubDate>Tue, 01 Apr 2025 23:59:59 +0800</pubDate>
       
       <guid>https://zrs.me/about.html</guid>
-      <description>&lt;p style=&#34;font-size: 25px;&#34;&gt;关于我&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;昵称:&lt;/td&gt;
-          &lt;td&gt;自然数&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;职业:&lt;/td&gt;
-          &lt;td&gt;不详&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;运动:&lt;/td&gt;
-          &lt;td&gt;吃&amp;amp;睡&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;游戏:&lt;/td&gt;
-          &lt;td&gt;德铁，欧卡&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;生活技能:&lt;/td&gt;
-          &lt;td&gt;★★★★★&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;社交技能:&lt;/td&gt;
-          &lt;td&gt;✰&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;本站是学习hugo的测试站点，基于hugo和papermod主题，在deepseek的技术帮助下搭建。主要用于记录hugo记录搭建过程以及日常的学习笔记。&lt;/p&gt;
-&lt;p&gt;想了解作者的更多文章，移步&lt;a href=&#34;https://zrs.xyz/&#34;&gt;https://zrs.xyz&lt;/a&gt;。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;关于本站&#34;&gt;关于本站&lt;/h2&gt;
+&lt;p&gt;本站使用hugo和papermod主题，在deepseek的技术帮助下搭建成功。主要用于记录hugo记录搭建过程和使用方法，以及记录日常的学习笔记。期待与博友一同讨论一同进步。&lt;/p&gt;
+&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;昵称：自然数&lt;/li&gt;
+&lt;li&gt;种群：90后牛马&lt;/li&gt;
+&lt;li&gt;运动：吃&amp;amp;睡，当前正在减肥&lt;/li&gt;
+&lt;li&gt;游戏：休闲模拟类，当市长1500小时+；卡车司机500小时+；火车司机300小时+&lt;/li&gt;
+&lt;li&gt;教育：2014年毕业于Changchun Institute of Technology&lt;/li&gt;
+&lt;li&gt;工作：Engaged in financial management work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
+&lt;p&gt;了解作者的更多文章，移步&lt;a href=&#34;https://zrs.xyz/&#34;&gt;https://zrs.xyz&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
     
     <item>
