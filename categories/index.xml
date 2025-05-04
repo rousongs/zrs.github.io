@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 这人帅么</title>
-    <link>https://zrs.me/categories/</link>
+    <link>https://zrs.me/categories.html</link>
     <description>Recent content in Categories on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 02 May 2025 20:10:43 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 01:22:57 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Read</title>
-      <link>https://zrs.me/categories/read/</link>
-      <pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate>
+      <title>建站</title>
+      <link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99.html</link>
+      <pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate>
       
-      <guid>https://zrs.me/categories/read/</guid>
+      <guid>https://zrs.me/categories/%E5%BB%BA%E7%AB%99.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>建站</title>
-      <link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</link>
-      <pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate>
+      <title>Read</title>
+      <link>https://zrs.me/categories/read.html</link>
+      <pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate>
       
-      <guid>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</guid>
+      <guid>https://zrs.me/categories/read.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>生活</title>
-      <link>https://zrs.me/categories/%E7%94%9F%E6%B4%BB/</link>
+      <link>https://zrs.me/categories/%E7%94%9F%E6%B4%BB.html</link>
       <pubDate>Sun, 27 Apr 2025 22:58:32 +0800</pubDate>
       
-      <guid>https://zrs.me/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://zrs.me/categories/%E7%94%9F%E6%B4%BB.html</guid>
       <description></description>
     </item>
     

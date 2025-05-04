@@ -2,98 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on 这人帅么</title>
-    <link>https://zrs.me/tags/blog/</link>
+    <link>https://zrs.me/tags/blog.html</link>
     <description>Recent content in Blog on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 30 Apr 2025 01:29:19 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 01:22:57 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章固定链接的的设置</title>
+      <link>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9A%84%E8%AE%BE%E7%BD%AE.html</link>
+      <pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate>
+      
+      <guid>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9A%84%E8%AE%BE%E7%BD%AE.html</guid>
+      <description>修复了主题中设置文章链接格式不生效的bug</description>
+    </item>
+    
     <item>
       <title>优化博客文章md文件的排序</title>
-      <link>https://zrs.me/posts/blog/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F/</link>
+      <link>https://zrs.me/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F.html</link>
       <pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F/</guid>
+      <guid>https://zrs.me/2025-04-30-%E4%BC%98%E5%8C%96%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0md%E6%96%87%E4%BB%B6%E7%9A%84%E6%8E%92%E5%BA%8F.html</guid>
       <description>优化博客文章md文件的排序</description>
     </item>
     
     <item>
       <title>又从零开始尝试搭建博客</title>
-      <link>https://zrs.me/posts/blog/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://zrs.me/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</link>
       <pubDate>Tue, 29 Apr 2025 13:24:59 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://zrs.me/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</guid>
       <description>上次搭建基于保姆级教程，把别人的全套模板搬过来hugo一下就OK了。本次尝试在github上下载最新的主题和hugo手动搭建。</description>
     </item>
     
     <item>
       <title>本站申请了萌国备案</title>
-      <link>https://zrs.me/posts/blog/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</link>
+      <link>https://zrs.me/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88.html</link>
       <pubDate>Tue, 29 Apr 2025 00:35:37 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88/</guid>
+      <guid>https://zrs.me/2025-04-29-%E6%9C%AC%E7%AB%99%E7%94%B3%E8%AF%B7%E4%BA%86%E8%90%8C%E5%9B%BD%E5%A4%87%E6%A1%88.html</guid>
       <description>本站申请了萌国备案</description>
     </item>
     
     <item>
       <title>Twikoo评论系统的部署</title>
-      <link>https://zrs.me/posts/blog/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <link>https://zrs.me/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2.html</link>
       <pubDate>Sun, 27 Apr 2025 09:56:08 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://zrs.me/2025-04-27-twikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%83%A8%E7%BD%B2.html</guid>
       <description>在AI的指导下，部署本站的Twikoo评论系统</description>
     </item>
     
     <item>
       <title>博客起了个新名字</title>
-      <link>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</link>
+      <link>https://zrs.me/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97.html</link>
       <pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97/</guid>
+      <guid>https://zrs.me/2025-04-23-%E5%8D%9A%E5%AE%A2%E8%B5%B7%E4%BA%86%E4%B8%AA%E6%96%B0%E5%90%8D%E5%AD%97.html</guid>
       <description>博客起了新名字，大家鉴赏一下。</description>
     </item>
     
     <item>
       <title>博客部署至vercel</title>
-      <link>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</link>
+      <link>https://zrs.me/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel.html</link>
       <pubDate>Wed, 23 Apr 2025 03:12:04 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel/</guid>
+      <guid>https://zrs.me/2025-04-23-%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E8%87%B3vercel.html</guid>
       <description>之前部署在github pages上，这次试一下部署到vercel</description>
     </item>
     
     <item>
       <title>本地编辑器vs Code</title>
-      <link>https://zrs.me/posts/blog/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</link>
+      <link>https://zrs.me/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code.html</link>
       <pubDate>Tue, 15 Apr 2025 00:44:29 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code/</guid>
+      <guid>https://zrs.me/2025-04-15-%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%BE%91%E5%99%A8vs-code.html</guid>
       <description>使用vs code写博客</description>
     </item>
     
     <item>
       <title>本站的部署</title>
-      <link>https://zrs.me/posts/blog/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</link>
+      <link>https://zrs.me/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2.html</link>
       <pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://zrs.me/2025-04-09-%E6%9C%AC%E7%AB%99%E7%9A%84%E9%83%A8%E7%BD%B2.html</guid>
       <description>上次写到本站的搭建， 本站使用hugo网站程序和sulv改版的papermod主题。部署在github pages上。截至目前，搭建已处于比较完备的稳定状态。</description>
     </item>
     
     <item>
       <title>hugo在windows下的安装</title>
-      <link>https://zrs.me/posts/blog/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <link>https://zrs.me/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85.html</link>
       <pubDate>Sat, 05 Apr 2025 17:44:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://zrs.me/2025-04-05-hugo%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85.html</guid>
       <description>在windows下安装hugo并配置环境变量。</description>
     </item>
     
     <item>
       <title>再次搭建成功并记一处主题修改内容</title>
-      <link>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</link>
+      <link>https://zrs.me/2025-04-04-%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9.html</link>
       <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-04-%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9/</guid>
+      <guid>https://zrs.me/2025-04-04-%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9.html</guid>
       <description>&lt;p&gt;今天终于搭建成功，还是拿来主义香。&lt;/p&gt;
 &lt;p&gt;终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod&lt;/p&gt;
 &lt;p&gt;下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe&lt;/p&gt;
@@ -103,10 +112,10 @@
     
     <item>
       <title>自己再次搭建失败</title>
-      <link>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</link>
+      <link>https://zrs.me/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</link>
       <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5/</guid>
+      <guid>https://zrs.me/2025-04-03-%E8%87%AA%E5%B7%B1%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</guid>
       <description>&lt;p&gt;今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。&lt;/p&gt;
 &lt;p&gt;多次尝试搭建均报错。&lt;/p&gt;
 &lt;p&gt;看来像我这样的小白需要一个保姆级教程。&lt;/p&gt;
@@ -117,10 +126,10 @@
     
     <item>
       <title>本站的搭建</title>
-      <link>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
+      <link>https://zrs.me/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA.html</link>
       <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
+      <guid>https://zrs.me/2025-04-02-%E6%9C%AC%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA.html</guid>
       <description>&lt;p&gt;本站使用hugo+github pages搭建；&lt;/p&gt;
 &lt;p&gt;怎么搭建起来好像已经完全忘记了；&lt;/p&gt;
 &lt;p&gt;hugo版本124，主题模板sulv-hugo-papermod-main；&lt;/p&gt;
@@ -132,10 +141,10 @@
     
     <item>
       <title>hello world</title>
-      <link>https://zrs.me/posts/blog/2024-09-02-hello-world/</link>
+      <link>https://zrs.me/2024-09-02-hello-world.html</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://zrs.me/posts/blog/2024-09-02-hello-world/</guid>
+      <guid>https://zrs.me/2024-09-02-hello-world.html</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
 &lt;h2 id=&#34;hello-world-1&#34;&gt;hello world&lt;/h2&gt;
 &lt;h3 id=&#34;hello-world-2&#34;&gt;hello world&lt;/h3&gt;
