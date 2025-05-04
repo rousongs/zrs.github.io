@@ -8,11 +8,11 @@
     <language>zh</language>
     <lastBuildDate>Mon, 05 May 2025 01:22:57 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>文章固定链接的的设置</title>
-      <link>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9A%84%E8%AE%BE%E7%BD%AE.html</link>
+      <title>文章固定链接的设置</title>
+      <link>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E8%AE%BE%E7%BD%AE.html</link>
       <pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate>
       
-      <guid>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9A%84%E8%AE%BE%E7%BD%AE.html</guid>
+      <guid>https://zrs.me/2025-05-05-%E6%96%87%E7%AB%A0%E5%9B%BA%E5%AE%9A%E9%93%BE%E6%8E%A5%E7%9A%84%E8%AE%BE%E7%BD%AE.html</guid>
       <description>修复了主题中设置文章链接格式不生效的bug</description>
     </item>
     
