@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on 这人帅么</title>
-    <link>https://zrs.me/tags/hugo/</link>
+    <link>https://zrs.me/tags/hugo.html</link>
     <description>Recent content in Hugo on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 08 Apr 2025 16:25:01 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>本套模板目前发现问题</title>
-      <link>https://zrs.me/14/</link>
+      <link>https://zrs.me/14.html</link>
       <pubDate>Tue, 08 Apr 2025 16:25:01 +0800</pubDate>
       
-      <guid>https://zrs.me/14/</guid>
+      <guid>https://zrs.me/14.html</guid>
       <description>本套模板目前发现问题</description>
     </item>
     
     <item>
       <title>Hugo的常用命令</title>
-      <link>https://zrs.me/12/</link>
+      <link>https://zrs.me/12.html</link>
       <pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate>
       
-      <guid>https://zrs.me/12/</guid>
+      <guid>https://zrs.me/12.html</guid>
       <description>Hugo的常用命令你都知道吗？</description>
     </item>
     
