@@ -22,7 +22,7 @@
       <pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate>
       
       <guid>https://zrs.me/31.html</guid>
-      <description>&lt;p&gt;4月29日&lt;a href=&#34;https://zrs.me/2025-04-29-%E5%8F%88%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html&#34; title=&#34;又从零开始尝试搭建博客&#34;&gt;又从零开始尝试搭建博客&lt;/a&gt;，并且写文章进行了记录，结合4月4日的文章&lt;a href=&#34;https://zrs.me/2025-04-04-%E5%86%8D%E6%AC%A1%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F%E5%B9%B6%E8%AE%B0%E4%B8%80%E5%A4%84%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%86%85%E5%AE%B9.html&#34; title=&#34;《再次搭建成功并记一处主题修改内容》&#34;&gt;《再次搭建成功并记一处主题修改内容》&lt;/a&gt;，对于hugo博客程序有了新的思考。&lt;/p&gt;
+      <description>&lt;p&gt;4月29日&lt;a href=&#34;https://zrs.me/27.html&#34; title=&#34;又从零开始尝试搭建博客&#34;&gt;又从零开始尝试搭建博客&lt;/a&gt;，并且写文章进行了记录，结合4月4日的文章&lt;a href=&#34;https://zrs.me/6.html&#34; title=&#34;《再次搭建成功并记一处主题修改内容》&#34;&gt;《再次搭建成功并记一处主题修改内容》&lt;/a&gt;，对于hugo博客程序有了新的思考。&lt;/p&gt;
 &lt;p&gt;hugo的版本迭代很快，几天就会出一个新版本，在更新个迭代中逐渐淘汰一些旧的参数和语法，新增一些新的参数语法等内容。其实主题无所谓多少版本，首次搭建时使用与主题更新差不多日期的hugo版本，基本都能搭建成功。然后可以逐渐升级hugo版本，根据报错的内容去调整一下相应的config.yml的设置，或者模板中的一些参数或是短链接的写法等内容，修改后基本都能去除警报或错误，这样主题也就跟进适配了新版本hugo。&lt;/p&gt;</description>
     </item>
     
