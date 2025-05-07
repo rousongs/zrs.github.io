@@ -6,7 +6,17 @@
     <description>Recent content on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 06 May 2025 12:17:15 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 16:11:12 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【PowerShell】因为在此系统上禁止运行脚本的解决方法</title>
+      <link>https://zrs.me/33.html</link>
+      <pubDate>Wed, 07 May 2025 16:11:12 +0800</pubDate>
+      
+      <guid>https://zrs.me/33.html</guid>
+      <description>&lt;p&gt;每天不push一下手就痒痒，于是今天在笔记本上尝试使用new.ps1脚本创建新文章时，就遇到了点问题，powershell提示：无法加载文件 new.ps1，因为在此系统上禁止运行脚本。详见。。。。。&lt;/p&gt;
+&lt;p&gt;搜了一下原来powershell默认是禁止运行脚本的，需要在管理员模式下运行一个命令把它打开。&lt;code&gt;set-executionpolicy remotesigned&lt;/code&gt;，选择Y或A。还可以使用&lt;code&gt; get-executionpolicy&lt;/code&gt;了解计算机上的现用执行策略。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>优化博客中文章的固定链接</title>
       <link>https://zrs.me/32.html</link>
