@@ -2,163 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>建站 on 这人帅么</title>
-    <link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99.html</link>
+    <link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</link>
     <description>Recent content in 建站 on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 07 May 2025 16:11:12 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 23:14:08 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章固定链接及图文的组织方式</title>
+      <link>https://zrs.me/35/</link>
+      <pubDate>Thu, 15 May 2025 23:14:08 +0800</pubDate>
+      
+      <guid>https://zrs.me/35/</guid>
+      <description>按目录组织文章中的图文资源</description>
+    </item>
+    
     <item>
       <title>【PowerShell】因为在此系统上禁止运行脚本的解决方法</title>
-      <link>https://zrs.me/33.html</link>
+      <link>https://zrs.me/33/</link>
       <pubDate>Wed, 07 May 2025 16:11:12 +0800</pubDate>
       
-      <guid>https://zrs.me/33.html</guid>
+      <guid>https://zrs.me/33/</guid>
       <description>&lt;p&gt;每天不push一下手就痒痒，于是今天在笔记本上尝试使用new.ps1脚本创建新文章时，就遇到了点问题，powershell提示：无法加载文件 new.ps1，因为在此系统上禁止运行脚本。详见。。。。。&lt;/p&gt;
 &lt;p&gt;搜了一下原来powershell默认是禁止运行脚本的，需要在管理员模式下运行一个命令把它打开。&lt;code&gt;set-executionpolicy remotesigned&lt;/code&gt;，选择Y或A。还可以使用&lt;code&gt; get-executionpolicy&lt;/code&gt;了解计算机上的现用执行策略。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>优化博客中文章的固定链接</title>
-      <link>https://zrs.me/32.html</link>
+      <link>https://zrs.me/32/</link>
       <pubDate>Tue, 06 May 2025 12:17:15 +0800</pubDate>
       
-      <guid>https://zrs.me/32.html</guid>
+      <guid>https://zrs.me/32/</guid>
       <description>继修复文章链接格式不生效后，再次对全站文章固定链接进行优化</description>
     </item>
     
     <item>
       <title>对于hugo版本的认识</title>
-      <link>https://zrs.me/31.html</link>
+      <link>https://zrs.me/31/</link>
       <pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate>
       
-      <guid>https://zrs.me/31.html</guid>
+      <guid>https://zrs.me/31/</guid>
       <description>&lt;p&gt;4月29日&lt;a href=&#34;https://zrs.me/27.html&#34; title=&#34;又从零开始尝试搭建博客&#34;&gt;又从零开始尝试搭建博客&lt;/a&gt;，并且写文章进行了记录，结合4月4日的文章&lt;a href=&#34;https://zrs.me/6.html&#34; title=&#34;《再次搭建成功并记一处主题修改内容》&#34;&gt;《再次搭建成功并记一处主题修改内容》&lt;/a&gt;，对于hugo博客程序有了新的思考。&lt;/p&gt;
 &lt;p&gt;hugo的版本迭代很快，几天就会出一个新版本，在更新个迭代中逐渐淘汰一些旧的参数和语法，新增一些新的参数语法等内容。其实主题无所谓多少版本，首次搭建时使用与主题更新差不多日期的hugo版本，基本都能搭建成功。然后可以逐渐升级hugo版本，根据报错的内容去调整一下相应的config.yml的设置，或者模板中的一些参数或是短链接的写法等内容，修改后基本都能去除警报或错误，这样主题也就跟进适配了新版本hugo。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>文章固定链接的设置</title>
-      <link>https://zrs.me/30.html</link>
+      <link>https://zrs.me/30/</link>
       <pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate>
       
-      <guid>https://zrs.me/30.html</guid>
+      <guid>https://zrs.me/30/</guid>
       <description>修复了主题中设置文章链接格式不生效的bug</description>
     </item>
     
     <item>
       <title>优化博客文章md文件的排序</title>
-      <link>https://zrs.me/28.html</link>
+      <link>https://zrs.me/28/</link>
       <pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate>
       
-      <guid>https://zrs.me/28.html</guid>
+      <guid>https://zrs.me/28/</guid>
       <description>优化博客文章md文件的排序</description>
     </item>
     
     <item>
       <title>又从零开始尝试搭建博客</title>
-      <link>https://zrs.me/27.html</link>
+      <link>https://zrs.me/27/</link>
       <pubDate>Tue, 29 Apr 2025 13:24:59 +0800</pubDate>
       
-      <guid>https://zrs.me/27.html</guid>
+      <guid>https://zrs.me/27/</guid>
       <description>上次搭建基于保姆级教程，把别人的全套模板搬过来hugo一下就OK了。本次尝试在github上下载最新的主题和hugo手动搭建。</description>
     </item>
     
     <item>
       <title>本站申请了萌国备案</title>
-      <link>https://zrs.me/26.html</link>
+      <link>https://zrs.me/26/</link>
       <pubDate>Tue, 29 Apr 2025 00:35:37 +0800</pubDate>
       
-      <guid>https://zrs.me/26.html</guid>
+      <guid>https://zrs.me/26/</guid>
       <description>本站申请了萌国备案</description>
     </item>
     
     <item>
       <title>Twikoo评论系统的部署</title>
-      <link>https://zrs.me/24.html</link>
+      <link>https://zrs.me/24/</link>
       <pubDate>Sun, 27 Apr 2025 09:56:08 +0800</pubDate>
       
-      <guid>https://zrs.me/24.html</guid>
+      <guid>https://zrs.me/24/</guid>
       <description>在AI的指导下，部署本站的Twikoo评论系统</description>
     </item>
     
     <item>
       <title>博客起了个新名字</title>
-      <link>https://zrs.me/22.html</link>
+      <link>https://zrs.me/22/</link>
       <pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate>
       
-      <guid>https://zrs.me/22.html</guid>
+      <guid>https://zrs.me/22/</guid>
       <description>博客起了新名字，大家鉴赏一下。</description>
     </item>
     
     <item>
       <title>博客部署至vercel</title>
-      <link>https://zrs.me/21.html</link>
+      <link>https://zrs.me/21/</link>
       <pubDate>Wed, 23 Apr 2025 03:12:04 +0800</pubDate>
       
-      <guid>https://zrs.me/21.html</guid>
+      <guid>https://zrs.me/21/</guid>
       <description>之前部署在github pages上，这次试一下部署到vercel</description>
     </item>
     
     <item>
       <title>本地编辑器vs Code</title>
-      <link>https://zrs.me/19.html</link>
+      <link>https://zrs.me/19/</link>
       <pubDate>Tue, 15 Apr 2025 00:44:29 +0800</pubDate>
       
-      <guid>https://zrs.me/19.html</guid>
+      <guid>https://zrs.me/19/</guid>
       <description>使用vs code写博客</description>
     </item>
     
     <item>
       <title>本站的部署</title>
-      <link>https://zrs.me/15.html</link>
+      <link>https://zrs.me/15/</link>
       <pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate>
       
-      <guid>https://zrs.me/15.html</guid>
+      <guid>https://zrs.me/15/</guid>
       <description>上次写到本站的搭建， 本站使用hugo网站程序和sulv改版的papermod主题。部署在github pages上。截至目前，搭建已处于比较完备的稳定状态。</description>
     </item>
     
     <item>
       <title>本套模板目前发现问题</title>
-      <link>https://zrs.me/14.html</link>
+      <link>https://zrs.me/14/</link>
       <pubDate>Tue, 08 Apr 2025 16:25:01 +0800</pubDate>
       
-      <guid>https://zrs.me/14.html</guid>
+      <guid>https://zrs.me/14/</guid>
       <description>本套模板目前发现问题</description>
     </item>
     
     <item>
       <title>Hugo的常用命令</title>
-      <link>https://zrs.me/12.html</link>
+      <link>https://zrs.me/12/</link>
       <pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate>
       
-      <guid>https://zrs.me/12.html</guid>
+      <guid>https://zrs.me/12/</guid>
       <description>Hugo的常用命令你都知道吗？</description>
     </item>
     
     <item>
       <title>Hugo优化主题模板的一些内容</title>
-      <link>https://zrs.me/11.html</link>
+      <link>https://zrs.me/11/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:54 +0800</pubDate>
       
-      <guid>https://zrs.me/11.html</guid>
+      <guid>https://zrs.me/11/</guid>
       <description>修改版的papermod主题删减内容</description>
     </item>
     
     <item>
+      <title>重新配置github仓库</title>
+      <link>https://zrs.me/10/</link>
+      <pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate>
+      
+      <guid>https://zrs.me/10/</guid>
+      <description>&lt;p&gt;生成的public文件夹 git status时发现仓库丢了，也就是.git文件夹被干掉了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git init&lt;/li&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -m &amp;ldquo;标记内容&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git remote add origin &lt;a href=&#34;https://github.com/rousongs/zrs.github.io.git&#34;&gt;https://github.com/rousongs/zrs.github.io.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 error: src refspec main does not match any 可能是本地仓库名字叫master而github上叫main吧&lt;/li&gt;
+&lt;li&gt;git branch -M main&lt;/li&gt;
+&lt;li&gt;git push -u origin main  报错 ! [rejected]&lt;/li&gt;
+&lt;li&gt;git push -f origin main   强制推送&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果在线有修改文件，git push 可能也会报rejected，此时先git pull一下，再git push&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>hugo在windows下的安装</title>
-      <link>https://zrs.me/9.html</link>
+      <link>https://zrs.me/9/</link>
       <pubDate>Sat, 05 Apr 2025 17:44:23 +0800</pubDate>
       
-      <guid>https://zrs.me/9.html</guid>
+      <guid>https://zrs.me/9/</guid>
       <description>在windows下安装hugo并配置环境变量。</description>
     </item>
     
     <item>
       <title>再次搭建成功并记一处主题修改内容</title>
-      <link>https://zrs.me/6.html</link>
+      <link>https://zrs.me/6/</link>
       <pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate>
       
-      <guid>https://zrs.me/6.html</guid>
+      <guid>https://zrs.me/6/</guid>
       <description>&lt;p&gt;今天终于搭建成功，还是拿来主义香。&lt;/p&gt;
 &lt;p&gt;终于找到了模板出处：https://github.com/xyming108/sulv-hugo-papermod&lt;/p&gt;
 &lt;p&gt;下载了主题和对应的papermod历史版本，又去下载了同时期128-130版本hugo.exe&lt;/p&gt;
@@ -168,10 +198,10 @@
     
     <item>
       <title>自己再次搭建失败</title>
-      <link>https://zrs.me/5.html</link>
+      <link>https://zrs.me/5/</link>
       <pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/5.html</guid>
+      <guid>https://zrs.me/5/</guid>
       <description>&lt;p&gt;今天在笔记本上下载了最新的hugo 145版本和paper mod 8.0主题。&lt;/p&gt;
 &lt;p&gt;多次尝试搭建均报错。&lt;/p&gt;
 &lt;p&gt;看来像我这样的小白需要一个保姆级教程。&lt;/p&gt;
@@ -182,10 +212,10 @@
     
     <item>
       <title>本站的搭建</title>
-      <link>https://zrs.me/4.html</link>
+      <link>https://zrs.me/4/</link>
       <pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate>
       
-      <guid>https://zrs.me/4.html</guid>
+      <guid>https://zrs.me/4/</guid>
       <description>&lt;p&gt;本站使用hugo+github pages搭建；&lt;/p&gt;
 &lt;p&gt;怎么搭建起来好像已经完全忘记了；&lt;/p&gt;
 &lt;p&gt;hugo版本124，主题模板sulv-hugo-papermod-main；&lt;/p&gt;
@@ -197,10 +227,10 @@
     
     <item>
       <title>hello world</title>
-      <link>https://zrs.me/1.html</link>
+      <link>https://zrs.me/1/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://zrs.me/1.html</guid>
+      <guid>https://zrs.me/1/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
 &lt;h2 id=&#34;hello-world-1&#34;&gt;hello world&lt;/h2&gt;
 &lt;h3 id=&#34;hello-world-2&#34;&gt;hello world&lt;/h3&gt;
