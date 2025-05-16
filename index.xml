@@ -6,7 +6,16 @@
     <description>Recent content on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 16 May 2025 04:07:03 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 12:30:46 +0800</lastBuildDate><atom:link href="https://zrs.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>认识hugo的页面包（Page Bundles）</title>
+      <link>https://zrs.me/38/</link>
+      <pubDate>Fri, 16 May 2025 12:30:46 +0800</pubDate>
+      
+      <guid>https://zrs.me/38/</guid>
+      <description>hugo中页面包（Page Bundles）、叶子包（Leaf Bundle）、Branch Bundle（分支包）的概念</description>
+    </item>
+    
     <item>
       <title>学习-实务-长投-非同控下的企业合并</title>
       <link>https://zrs.me/36/</link>
