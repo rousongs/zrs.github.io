@@ -6,7 +6,26 @@
     <description>Recent content in 📕 阅读 on 这人帅么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 16 May 2025 04:07:03 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 22:56:01 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学习-实务-长投-权益法下长投的核算</title>
+      <link>https://zrs.me/39/</link>
+      <pubDate>Mon, 19 May 2025 22:56:01 +0800</pubDate>
+      
+      <guid>https://zrs.me/39/</guid>
+      <description>&lt;h1 id=&#34;权益法&#34;&gt;权益法&lt;/h1&gt;
+&lt;p&gt;什么时候用权益法？ 达不到控制的情况下（&lt;strong&gt;共同控制&lt;/strong&gt;，&lt;strong&gt;重大影响&lt;/strong&gt;），采用权益法核算，达到控制采用成本法核算。&lt;/p&gt;
+&lt;p&gt;科目设置：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;长期股权投资-投资成本
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -损益调整
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -其他综合收益
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -其他权益变动
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;初始投资成本的调整&#34;&gt;初始投资成本的调整&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;初始投资成本&lt;/strong&gt;为实际付出的对价+初始直接费用&lt;br&gt;
+&lt;strong&gt;投资日享有的被投资单位可辨认净资产的公允价值份额&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;以上两个按高的算&lt;/strong&gt;，如果第2个高了，也就是花低价买到了高公允价的资产，形成的差额计&lt;strong&gt;营业外收入&lt;/strong&gt;，这样的话是两个分录：&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>学习-实务-长投-非同控下的企业合并</title>
       <link>https://zrs.me/36/</link>
