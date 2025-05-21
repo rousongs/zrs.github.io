@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🧱 建站 on 这人帅么</title>
+    <title>🧱 建站 on 自如说</title>
     <link>https://zrs.me/posts/blog/</link>
-    <description>Recent content in 🧱 建站 on 这人帅么</description>
+    <description>Recent content in 🧱 建站 on 自如说</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 16 May 2025 12:30:46 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 23:55:28 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自如说——博客的新名字</title>
+      <link>https://zrs.me/40/</link>
+      <pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate>
+      
+      <guid>https://zrs.me/40/</guid>
+      <description>&lt;p&gt;上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p&gt;
+&lt;h1 id=&#34;自如zì-rú&#34;&gt;自如[zì rú]&lt;/h1&gt;
+&lt;p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://zrs.me/40/zr.png&#34; alt=&#34;自如&#34;  /&gt;
+&lt;br&gt;
+意思是没有障碍地，不受约束地，活动或操作灵活自然，道教妙真道专指无所以借、无所适达、自然而然的本元本真状态。&lt;/p&gt;
+&lt;p&gt;苏辙在《同子瞻泛汴泗得渔酒》中写道：&lt;strong&gt;渌水雨新涨，扁舟意自如。&lt;/strong&gt; 来表达自由、不受拘束的状态。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>认识hugo的页面包（Page Bundles）</title>
       <link>https://zrs.me/38/</link>

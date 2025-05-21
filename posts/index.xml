@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📚文章 on 这人帅么</title>
+    <title>📚文章 on 自如说</title>
     <link>https://zrs.me/posts/</link>
-    <description>Recent content in 📚文章 on 这人帅么</description>
+    <description>Recent content in 📚文章 on 自如说</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 19 May 2025 22:56:01 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 23:55:28 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
