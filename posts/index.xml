@@ -1,11 +1,694 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>📚文章 on 自如说</title>
-    <link>https://zrs.me/posts/</link>
-    <description>Recent content in 📚文章 on 自如说</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Wed, 21 May 2025 23:55:28 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 自如说</title><link>https://zrs.me/posts/</link><description>Recent content in Posts on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 21 May 2025 23:55:28 +0800</lastBuildDate><atom:link href="https://zrs.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>自如说——博客的新名字</title><link>https://zrs.me/40/</link><pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate><guid>https://zrs.me/40/</guid><description>&lt;p>上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p>
+&lt;h1 id="自如zì-rú">自如[zì rú]&lt;/h1>
+&lt;p>&lt;div class="not-prose my-8">
+ 
+
+
+
+&lt;figure class="text-center">
+ &lt;div
+ class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl"
+ 
+ style="max-width: 400px; max-height: 211px;">
+ 
+ &lt;picture>
+ 
+ &lt;source
+ type="image/webp"
+ srcset="https://zrs.me/40/zr_hu_831148f68727a240.webp
+ 320w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;source
+ type="image/jpeg"
+ srcset="https://zrs.me/40/zr_hu_e73b52b0951ae10e.jpg
+ 320w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;img
+ src="https://zrs.me/40/zr_hu_dd22de40832eb03f.png"
+ alt="Small Image"
+ title="Small Image"
+ width="400"
+ height="211"
+ style="max-width: 400px; max-height: 211px;"
+ class="h-auto w-full transition-transform duration-300 ease-out hover:scale-105"
+ loading="lazy"
+ decoding="async" />
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;figcaption class="text-muted-foreground mt-3 text-sm italic">
+ 自如[zì rú]
+ &lt;/figcaption>&lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>意思是没有障碍地，不受约束地，活动或操作灵活自然，道教妙真道专指无所以借、无所适达、自然而然的本元本真状态。&lt;/p>
+&lt;p>苏辙在《同子瞻泛汴泗得渔酒二咏》中写道：&lt;strong>渌水雨新涨，扁舟意自如。&lt;/strong> 来表达自由、不受拘束的状态。&lt;/p>
+&lt;p>道教《玄元太亘经》中写道：&lt;strong>一如如元，自如如真，无所以如。&lt;/strong> 专指无所以借、无所适达、自然而然的本元本真状态。&lt;/p>
+&lt;p>希望本博客以及博主本人在以后的日子里，也能自由自在，不受拘束。&lt;/p>
+&lt;hr>
+&lt;p>第二天补充：
+AI或许真的有创造性，问了一下deepseek，以简拼zrs，使用&amp;quot;自如说&amp;quot;作为博客名称是否合适。&lt;br>
+用过AI的大家都知道AI会从优势、劣势方面入手分析，这些就不赘述了，最后提了个备选方案，让我眼前一亮。&lt;/p>
+&lt;ul>
+&lt;li>真如说（突出真实与哲思）&lt;/li>
+&lt;li>知然说（谐音“自然”，强调认知与逻辑）&lt;/li>
+&lt;li>灼日说（更具个性张力，适合犀利文风）&lt;/li>
+&lt;/ul>
+&lt;p>我觉得&lt;strong>灼日说&lt;/strong>真的不错，首先它避免了与某租房品牌的冲突，但是文章个性有张力，文风犀利对我来说有些不对路子。不论如何，把这个名字纳入备选。说不定以后喜欢了就拿出来用呢。再或者真如、知然、灼日作为不同风格的行文思路，可以作为我的博客文章的分类，用来组织不同文风不同思路的文章。&lt;/p>
+&lt;p>另外deepseek还贴心的提到，对于引用苏辙的诗句&amp;quot;渌水雨新涨，扁舟意自如&amp;quot;时，建议后面带上&lt;code>——苏辙《同子瞻泛汴泗》&lt;/code>，因为普通读者可能对苏辙的诗句较为陌生。同时deepseek还解释了因为标题过长，这种简写在确保不曲解原意的情况下符合引用规则。&lt;/p>
+&lt;p>这好像打开了一个新世界的大门。&lt;/p></description></item><item><title>学习-实务-长投-权益法下长投的核算</title><link>https://zrs.me/39/</link><pubDate>Mon, 19 May 2025 22:56:01 +0800</pubDate><guid>https://zrs.me/39/</guid><description>&lt;h1 id="权益法">权益法&lt;/h1>
+&lt;p>什么时候用权益法？ 达不到控制的情况下（&lt;strong>共同控制&lt;/strong>，&lt;strong>重大影响&lt;/strong>），采用权益法核算，达到控制采用成本法核算。&lt;/p>
+&lt;p>科目设置：&lt;/p>
+&lt;div
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ 
+ &lt;div
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;div class="text-muted-foreground flex-shrink-0">
+ 
+ &lt;svg class="h-4 w-4"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+&lt;/svg>
+ &lt;/div>
+ &lt;span class="text-muted-foreground text-sm font-medium">
+ TEXT
+ &lt;/span>
+ &lt;/div>
+
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;button
+ class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ data-default-state="expanded"
+ data-collapsed="false"
+ data-auto-collapse-lines="30"
+ data-auto-collapse-height="400"
+ data-collapsed-height="120"
+ title="折叠"
+ aria-label="折叠">
+ &lt;span class="collapse-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
+ &lt;/span>
+ &lt;span class="collapse-text hidden sm:inline"
+ >折叠&lt;/span
+ >
+ &lt;/button>
+ &lt;button
+ class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ title="复制"
+ aria-label="复制">
+ &lt;span class="copy-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+&lt;/svg>
+ &lt;/span>
+ &lt;span class="copy-text hidden sm:inline"
+ >复制&lt;/span
+ >
+ &lt;/button>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ &lt;div class="code-block-content relative" id="code-0">
+ &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">长期股权投资-投资成本
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -损益调整
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -其他综合收益
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -其他权益变动&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ 
+ &lt;div
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ &lt;div
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ 点击展开查看更多
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+&lt;script>
+(function() {
+ const codeId = 'code-0';
+ const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
+ const collapseBtn = document.querySelector('.collapse-code-btn[data-code-id="' + codeId + '"]');
+ const codeContainer = document.getElementById(codeId);
+
+ if (!codeContainer) return;
+
+ 
+ if (copyBtn) {
+ const copyIcon = copyBtn.querySelector('.copy-icon');
+ const copyText = copyBtn.querySelector('.copy-text');
+
+ copyBtn.addEventListener('click', async function() {
+ try {
+ 
+ let codeText = '';
+
+ 
+ const codeTableCell = codeContainer.querySelector('.lntd:last-child code');
+ if (codeTableCell) {
+ codeText = codeTableCell.textContent || codeTableCell.innerText;
+ } else {
+ 
+ const codeElement = codeContainer.querySelector('code');
+ if (codeElement) {
+ 
+ const hasInlineLineNumbers = codeElement.querySelector('.ln');
+ if (hasInlineLineNumbers) {
+ 
+ const codeLines = codeElement.querySelectorAll('.cl');
+ if (codeLines.length > 0) {
+ codeText = Array.from(codeLines)
+ .map(line => {
+ const text = line.textContent || line.innerText;
+ 
+ return text.replace(/\n+$/, '');
+ })
+ .join('\n')
+ .replace(/\n+$/, ''); 
+ } else {
+ 
+ const allText = codeElement.textContent || codeElement.innerText;
+ codeText = allText.replace(/^\d+/gm, '').replace(/^\s+/gm, '');
+ }
+ } else {
+ 
+ codeText = codeElement.textContent || codeElement.innerText;
+ }
+ } else {
+ 
+ codeText = codeContainer.textContent || codeContainer.innerText;
+ }
+ }
+
+ 
+ codeText = codeText.trim();
+
+ 
+ await navigator.clipboard.writeText(codeText);
+
+ 
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M5 13l4 4L19 7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '已复制';
+ }
+ copyBtn.classList.add('text-green-600');
+
+ 
+ setTimeout(() => {
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ copyBtn.classList.remove('text-green-600');
+ }, 2000);
+
+ } catch (err) {
+ console.error('复制失败:', err);
+
+ 
+ const range = document.createRange();
+ const codeElement = codeContainer.querySelector('code') || codeContainer;
+ range.selectNodeContents(codeElement);
+ const selection = window.getSelection();
+ selection.removeAllRanges();
+ selection.addRange(range);
+
+ 
+ if (copyText) {
+ copyText.textContent = '已选择';
+ }
+
+ setTimeout(() => {
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ selection.removeAllRanges();
+ }, 2000);
+ }
+ });
+ }
+
+ 
+ if (collapseBtn) {
+ const collapseIcon = collapseBtn.querySelector('.collapse-icon');
+ const collapseText = collapseBtn.querySelector('.collapse-text');
+ const collapseOverlay = codeContainer.querySelector('.collapse-overlay');
+
+ 
+ let codeElement = codeContainer.querySelector('pre.chroma');
+ if (!codeElement) {
+ codeElement = codeContainer.querySelector('pre');
+ }
+
+ const defaultState = collapseBtn.dataset.defaultState || 'expanded';
+ const isCollapsedAttr = collapseBtn.dataset.collapsed === 'true';
+ const autoCollapseLines = parseInt(collapseBtn.dataset.autoCollapseLines) || 30;
+ const autoCollapseHeight = parseInt(collapseBtn.dataset.autoCollapseHeight) || 400;
+ const collapsedHeight = parseInt(collapseBtn.dataset.collapsedHeight) || 120;
+
+ let isCollapsed = false;
+
+ 
+ function initCollapse() {
+ 
+ const shouldCollapse = isCollapsedAttr ||
+ defaultState === 'collapsed' ||
+ shouldAutoCollapse();
+
+ if (shouldCollapse) {
+ setCollapsed(true, false); 
+ }
+ }
+
+ function shouldAutoCollapse() {
+ 
+ if (codeElement) {
+ const lines = codeElement.querySelectorAll('.line, .cl');
+ const height = codeElement.offsetHeight;
+ return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ }
+
+ 
+ const containerHeight = codeContainer.offsetHeight;
+ if (containerHeight > autoCollapseHeight) {
+ return true;
+ }
+
+ 
+ const textContent = codeContainer.textContent || codeContainer.innerText || '';
+ const estimatedLines = textContent.split('\n').length;
+ return estimatedLines > autoCollapseLines;
+ }
+
+ function setCollapsed(collapsed, animate = true) {
+ if (!collapseOverlay) return;
+
+ isCollapsed = collapsed;
+
+ if (collapsed) {
+ 
+ codeContainer.style.maxHeight = collapsedHeight + 'px';
+ codeContainer.style.overflow = 'hidden';
+ collapseOverlay.style.opacity = '1';
+ collapseOverlay.style.pointerEvents = 'auto';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M19 9l-7 7-7-7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '展开';
+ }
+ collapseBtn.title = '展开';
+
+ } else {
+ 
+ codeContainer.style.maxHeight = '';
+ codeContainer.style.overflow = '';
+ collapseOverlay.style.opacity = '0';
+ collapseOverlay.style.pointerEvents = 'none';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z\u0022\/\u003e\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '折叠';
+ }
+ collapseBtn.title = '折叠';
+ }
+
+ 
+ if (animate) {
+ codeContainer.style.transition = 'max-height 0.3s ease-out';
+ setTimeout(() => {
+ codeContainer.style.transition = '';
+ }, 300);
+ }
+ }
+
+ function toggleCollapse() {
+ setCollapsed(!isCollapsed, true);
+ }
+
+ 
+ collapseBtn.addEventListener('click', toggleCollapse);
+
+ 
+ if (collapseOverlay) {
+ collapseOverlay.addEventListener('click', () => {
+ if (isCollapsed) {
+ setCollapsed(false, true);
+ }
+ });
+ }
+
+ 
+ initCollapse();
+ }
+})();
+&lt;/script>
+&lt;h2 id="初始投资成本的调整">初始投资成本的调整&lt;/h2>
+&lt;p>&lt;strong>初始投资成本&lt;/strong>为实际付出的对价+初始直接费用&lt;br>
+&lt;strong>投资日享有的被投资单位可辨认净资产的公允价值份额&lt;/strong>&lt;br>
+&lt;strong>以上两个按高的算&lt;/strong>，如果第2个高了，也就是花低价买到了高公允价的资产，形成的差额计&lt;strong>营业外收入&lt;/strong>，这样的话是两个分录：&lt;/p></description></item><item><title>认识hugo的页面包（Page Bundles）</title><link>https://zrs.me/38/</link><pubDate>Fri, 16 May 2025 12:30:46 +0800</pubDate><guid>https://zrs.me/38/</guid><description/></item><item><title>学习-实务-长投-非同控下的企业合并</title><link>https://zrs.me/36/</link><pubDate>Fri, 16 May 2025 04:07:03 +0800</pubDate><guid>https://zrs.me/36/</guid><description/></item><item><title>文章固定链接及图文的组织方式</title><link>https://zrs.me/35/</link><pubDate>Thu, 15 May 2025 23:14:08 +0800</pubDate><guid>https://zrs.me/35/</guid><description/></item><item><title>路边摊买来一只小橘猫</title><link>https://zrs.me/37/</link><pubDate>Thu, 15 May 2025 10:10:54 +0800</pubDate><guid>https://zrs.me/37/</guid><description/></item><item><title>学习-实务-长投-同控下的企业合并</title><link>https://zrs.me/34/</link><pubDate>Wed, 14 May 2025 23:27:57 +0800</pubDate><guid>https://zrs.me/34/</guid><description>同一控制下的企业合并之初始计量</description></item><item><title>【PowerShell】因为在此系统上禁止运行脚本的解决方法</title><link>https://zrs.me/33/</link><pubDate>Wed, 07 May 2025 16:11:12 +0800</pubDate><guid>https://zrs.me/33/</guid><description/></item><item><title>优化博客中文章的固定链接</title><link>https://zrs.me/32/</link><pubDate>Tue, 06 May 2025 12:17:15 +0800</pubDate><guid>https://zrs.me/32/</guid><description/></item><item><title>对于hugo版本的认识</title><link>https://zrs.me/31/</link><pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate><guid>https://zrs.me/31/</guid><description/></item><item><title>文章固定链接的设置</title><link>https://zrs.me/30/</link><pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate><guid>https://zrs.me/30/</guid><description/></item><item><title>学习-财务管理-筹资管理（下）</title><link>https://zrs.me/29/</link><pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate><guid>https://zrs.me/29/</guid><description/></item><item><title>优化博客文章md文件的排序</title><link>https://zrs.me/28/</link><pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate><guid>https://zrs.me/28/</guid><description>&lt;p>本站正式启用一月有余，随着文章越写越多，vs code 编辑器左侧的工作区文件浏览令我十分困惑，文章的顺序好像不是按日期排序的，好像是按字母排序。一眼望去不知道先后顺序和写作日期。如图：&lt;br>
+&lt;div class="not-prose my-8">
+ 
+ &lt;figure class="text-center">
+ &lt;div
+ class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl">
+ &lt;img
+ src="https:/tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
+ alt="img202504300117.png"
+ 
+ class="h-auto w-full max-w-full transition-transform duration-300 ease-out hover:scale-105"
+ loading="lazy"
+ decoding="async" />
+ &lt;/div>
+
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>这个问题我咨询了deepseek，deepseek给出了一个有用的办法，在文件名前加上日期，比如这样：&lt;/p>
+&lt;div
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ 
+ &lt;div
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;div class="text-muted-foreground flex-shrink-0">
+ 
+ &lt;svg class="h-4 w-4"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+&lt;/svg>
+ &lt;/div>
+ &lt;span class="text-muted-foreground text-sm font-medium">
+ PLAINTEXT
+ &lt;/span>
+ &lt;/div>
+
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;button
+ class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ data-default-state="expanded"
+ data-collapsed="false"
+ data-auto-collapse-lines="30"
+ data-auto-collapse-height="400"
+ data-collapsed-height="120"
+ title="折叠"
+ aria-label="折叠">
+ &lt;span class="collapse-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
+ &lt;/span>
+ &lt;span class="collapse-text hidden sm:inline"
+ >折叠&lt;/span
+ >
+ &lt;/button>
+ &lt;button
+ class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ title="复制"
+ aria-label="复制">
+ &lt;span class="copy-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+&lt;/svg>
+ &lt;/span>
+ &lt;span class="copy-text hidden sm:inline"
+ >复制&lt;/span
+ >
+ &lt;/button>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ &lt;div class="code-block-content relative" id="code-0">
+ &lt;pre tabindex="0">&lt;code>content/posts/
+├── 2023-10-01-post-title-a.md
+├── 2023-10-05-post-title-b.md
+└── 2023-10-10-post-title-c.md&lt;/code>&lt;/pre>
+ 
+ &lt;div
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ &lt;div
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ 点击展开查看更多
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+&lt;script>
+(function() {
+ const codeId = 'code-0';
+ const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
+ const collapseBtn = document.querySelector('.collapse-code-btn[data-code-id="' + codeId + '"]');
+ const codeContainer = document.getElementById(codeId);
+
+ if (!codeContainer) return;
+
+ 
+ if (copyBtn) {
+ const copyIcon = copyBtn.querySelector('.copy-icon');
+ const copyText = copyBtn.querySelector('.copy-text');
+
+ copyBtn.addEventListener('click', async function() {
+ try {
+ 
+ let codeText = '';
+
+ 
+ const codeTableCell = codeContainer.querySelector('.lntd:last-child code');
+ if (codeTableCell) {
+ codeText = codeTableCell.textContent || codeTableCell.innerText;
+ } else {
+ 
+ const codeElement = codeContainer.querySelector('code');
+ if (codeElement) {
+ 
+ const hasInlineLineNumbers = codeElement.querySelector('.ln');
+ if (hasInlineLineNumbers) {
+ 
+ const codeLines = codeElement.querySelectorAll('.cl');
+ if (codeLines.length > 0) {
+ codeText = Array.from(codeLines)
+ .map(line => {
+ const text = line.textContent || line.innerText;
+ 
+ return text.replace(/\n+$/, '');
+ })
+ .join('\n')
+ .replace(/\n+$/, ''); 
+ } else {
+ 
+ const allText = codeElement.textContent || codeElement.innerText;
+ codeText = allText.replace(/^\d+/gm, '').replace(/^\s+/gm, '');
+ }
+ } else {
+ 
+ codeText = codeElement.textContent || codeElement.innerText;
+ }
+ } else {
+ 
+ codeText = codeContainer.textContent || codeContainer.innerText;
+ }
+ }
+
+ 
+ codeText = codeText.trim();
+
+ 
+ await navigator.clipboard.writeText(codeText);
+
+ 
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M5 13l4 4L19 7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '已复制';
+ }
+ copyBtn.classList.add('text-green-600');
+
+ 
+ setTimeout(() => {
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ copyBtn.classList.remove('text-green-600');
+ }, 2000);
+
+ } catch (err) {
+ console.error('复制失败:', err);
+
+ 
+ const range = document.createRange();
+ const codeElement = codeContainer.querySelector('code') || codeContainer;
+ range.selectNodeContents(codeElement);
+ const selection = window.getSelection();
+ selection.removeAllRanges();
+ selection.addRange(range);
+
+ 
+ if (copyText) {
+ copyText.textContent = '已选择';
+ }
+
+ setTimeout(() => {
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ selection.removeAllRanges();
+ }, 2000);
+ }
+ });
+ }
+
+ 
+ if (collapseBtn) {
+ const collapseIcon = collapseBtn.querySelector('.collapse-icon');
+ const collapseText = collapseBtn.querySelector('.collapse-text');
+ const collapseOverlay = codeContainer.querySelector('.collapse-overlay');
+
+ 
+ let codeElement = codeContainer.querySelector('pre.chroma');
+ if (!codeElement) {
+ codeElement = codeContainer.querySelector('pre');
+ }
+
+ const defaultState = collapseBtn.dataset.defaultState || 'expanded';
+ const isCollapsedAttr = collapseBtn.dataset.collapsed === 'true';
+ const autoCollapseLines = parseInt(collapseBtn.dataset.autoCollapseLines) || 30;
+ const autoCollapseHeight = parseInt(collapseBtn.dataset.autoCollapseHeight) || 400;
+ const collapsedHeight = parseInt(collapseBtn.dataset.collapsedHeight) || 120;
+
+ let isCollapsed = false;
+
+ 
+ function initCollapse() {
+ 
+ const shouldCollapse = isCollapsedAttr ||
+ defaultState === 'collapsed' ||
+ shouldAutoCollapse();
+
+ if (shouldCollapse) {
+ setCollapsed(true, false); 
+ }
+ }
+
+ function shouldAutoCollapse() {
+ 
+ if (codeElement) {
+ const lines = codeElement.querySelectorAll('.line, .cl');
+ const height = codeElement.offsetHeight;
+ return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ }
+
+ 
+ const containerHeight = codeContainer.offsetHeight;
+ if (containerHeight > autoCollapseHeight) {
+ return true;
+ }
+
+ 
+ const textContent = codeContainer.textContent || codeContainer.innerText || '';
+ const estimatedLines = textContent.split('\n').length;
+ return estimatedLines > autoCollapseLines;
+ }
+
+ function setCollapsed(collapsed, animate = true) {
+ if (!collapseOverlay) return;
+
+ isCollapsed = collapsed;
+
+ if (collapsed) {
+ 
+ codeContainer.style.maxHeight = collapsedHeight + 'px';
+ codeContainer.style.overflow = 'hidden';
+ collapseOverlay.style.opacity = '1';
+ collapseOverlay.style.pointerEvents = 'auto';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M19 9l-7 7-7-7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '展开';
+ }
+ collapseBtn.title = '展开';
+
+ } else {
+ 
+ codeContainer.style.maxHeight = '';
+ codeContainer.style.overflow = '';
+ collapseOverlay.style.opacity = '0';
+ collapseOverlay.style.pointerEvents = 'none';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z\u0022\/\u003e\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '折叠';
+ }
+ collapseBtn.title = '折叠';
+ }
+
+ 
+ if (animate) {
+ codeContainer.style.transition = 'max-height 0.3s ease-out';
+ setTimeout(() => {
+ codeContainer.style.transition = '';
+ }, 300);
+ }
+ }
+
+ function toggleCollapse() {
+ setCollapsed(!isCollapsed, true);
+ }
+
+ 
+ collapseBtn.addEventListener('click', toggleCollapse);
+
+ 
+ if (collapseOverlay) {
+ collapseOverlay.addEventListener('click', () => {
+ if (isCollapsed) {
+ setCollapsed(false, true);
+ }
+ });
+ }
+
+ 
+ initCollapse();
+ }
+})();
+&lt;/script>
+&lt;p>我感觉十分有用，用脚本把posts目录下的文件名全部加了日期，以下内容使用保存为文本文件，扩展名为.ps1。&lt;/p></description></item><item><title>又从零开始尝试搭建博客</title><link>https://zrs.me/27/</link><pubDate>Tue, 29 Apr 2025 13:24:59 +0800</pubDate><guid>https://zrs.me/27/</guid><description/></item><item><title>本站申请了萌国备案</title><link>https://zrs.me/26/</link><pubDate>Tue, 29 Apr 2025 00:35:37 +0800</pubDate><guid>https://zrs.me/26/</guid><description/></item><item><title>静态博客让人更专注于写作</title><link>https://zrs.me/25/</link><pubDate>Sun, 27 Apr 2025 22:58:32 +0800</pubDate><guid>https://zrs.me/25/</guid><description/></item><item><title>Twikoo评论系统的部署</title><link>https://zrs.me/24/</link><pubDate>Sun, 27 Apr 2025 09:56:08 +0800</pubDate><guid>https://zrs.me/24/</guid><description/></item><item><title>我为什么信道不信佛</title><link>https://zrs.me/23/</link><pubDate>Thu, 24 Apr 2025 12:21:40 +0800</pubDate><guid>https://zrs.me/23/</guid><description/></item><item><title>博客起了个新名字</title><link>https://zrs.me/22/</link><pubDate>Wed, 23 Apr 2025 12:02:15 +0800</pubDate><guid>https://zrs.me/22/</guid><description/></item><item><title>博客部署至vercel</title><link>https://zrs.me/21/</link><pubDate>Wed, 23 Apr 2025 03:12:04 +0800</pubDate><guid>https://zrs.me/21/</guid><description/></item><item><title>学习-实务-无形资产</title><link>https://zrs.me/20/</link><pubDate>Mon, 21 Apr 2025 21:46:06 +0800</pubDate><guid>https://zrs.me/20/</guid><description/></item><item><title>本地编辑器vs Code</title><link>https://zrs.me/19/</link><pubDate>Tue, 15 Apr 2025 00:44:29 +0800</pubDate><guid>https://zrs.me/19/</guid><description/></item><item><title>学习 实务 固定资产</title><link>https://zrs.me/18/</link><pubDate>Sun, 13 Apr 2025 23:35:38 +0800</pubDate><guid>https://zrs.me/18/</guid><description/></item><item><title>学习-实务-存货委托加工中的消费税</title><link>https://zrs.me/17/</link><pubDate>Sun, 13 Apr 2025 02:28:42 +0800</pubDate><guid>https://zrs.me/17/</guid><description/></item><item><title>结束了office365，换上了WPS</title><link>https://zrs.me/16/</link><pubDate>Wed, 09 Apr 2025 17:51:10 +0800</pubDate><guid>https://zrs.me/16/</guid><description/></item><item><title>本站的部署</title><link>https://zrs.me/15/</link><pubDate>Wed, 09 Apr 2025 02:09:41 +0800</pubDate><guid>https://zrs.me/15/</guid><description/></item><item><title>本套模板目前发现问题</title><link>https://zrs.me/14/</link><pubDate>Tue, 08 Apr 2025 16:25:01 +0800</pubDate><guid>https://zrs.me/14/</guid><description/></item><item><title>学习-财务管理-衍生工具筹资-认股权证、优先股</title><link>https://zrs.me/13/</link><pubDate>Tue, 08 Apr 2025 01:07:51 +0800</pubDate><guid>https://zrs.me/13/</guid><description/></item><item><title>Hugo的常用命令</title><link>https://zrs.me/12/</link><pubDate>Tue, 08 Apr 2025 00:08:46 +0800</pubDate><guid>https://zrs.me/12/</guid><description/></item><item><title>Hugo优化主题模板的一些内容</title><link>https://zrs.me/11/</link><pubDate>Tue, 08 Apr 2025 00:00:54 +0800</pubDate><guid>https://zrs.me/11/</guid><description/></item><item><title>重新配置github仓库</title><link>https://zrs.me/10/</link><pubDate>Sat, 05 Apr 2025 22:18:11 +0800</pubDate><guid>https://zrs.me/10/</guid><description/></item><item><title>hugo在windows下的安装</title><link>https://zrs.me/9/</link><pubDate>Sat, 05 Apr 2025 17:44:23 +0800</pubDate><guid>https://zrs.me/9/</guid><description>在windows下安装hugo并配置环境变量。</description></item><item><title>学习-财务管理-衍生工具筹资-可转换债券</title><link>https://zrs.me/8/</link><pubDate>Sat, 05 Apr 2025 00:03:00 +0800</pubDate><guid>https://zrs.me/8/</guid><description/></item><item><title>hugo与wp,ty的体验感受</title><link>https://zrs.me/7/</link><pubDate>Fri, 04 Apr 2025 01:40:00 +0800</pubDate><guid>https://zrs.me/7/</guid><description/></item><item><title>再次搭建成功并记一处主题修改内容</title><link>https://zrs.me/6/</link><pubDate>Fri, 04 Apr 2025 00:03:23 +0800</pubDate><guid>https://zrs.me/6/</guid><description/></item><item><title>自己再次搭建失败</title><link>https://zrs.me/5/</link><pubDate>Thu, 03 Apr 2025 00:18:23 +0800</pubDate><guid>https://zrs.me/5/</guid><description/></item><item><title>本站的搭建</title><link>https://zrs.me/4/</link><pubDate>Wed, 02 Apr 2025 00:18:23 +0800</pubDate><guid>https://zrs.me/4/</guid><description>&lt;p>本站使用hugo+github pages搭建；&lt;/p>
+&lt;p>怎么搭建起来好像已经完全忘记了；&lt;/p>
+&lt;p>hugo版本124，主题模板sulv-hugo-papermod-main；&lt;/p>
+&lt;p>css修改了一个地方。&lt;/p>
+&lt;p>用最新版hugo，发现替换不可行。&lt;/p>
+&lt;p>电脑上也没找到下载的124压缩包，只好在github上重新下一个了。&lt;/p>
+&lt;p>以上。&lt;/p></description></item><item><title>童趣</title><link>https://zrs.me/3/</link><pubDate>Mon, 31 Mar 2025 00:18:15 +0800</pubDate><guid>https://zrs.me/3/</guid><description>余忆童稚时，能张目对日。</description></item><item><title>【AI】DeepSeek的回答让我一惊</title><link>https://zrs.me/2/</link><pubDate>Mon, 31 Mar 2025 00:17:58 +0800</pubDate><guid>https://zrs.me/2/</guid><description/></item><item><title>hello world</title><link>https://zrs.me/1/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/1/</guid><description/></item></channel></rss>

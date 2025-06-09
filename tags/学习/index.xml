@@ -1,110 +1,308 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>学习 on 自如说</title>
-    <link>https://zrs.me/tags/%E5%AD%A6%E4%B9%A0/</link>
-    <description>Recent content in 学习 on 自如说</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Mon, 19 May 2025 22:56:01 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>学习-实务-长投-权益法下长投的核算</title>
-      <link>https://zrs.me/39/</link>
-      <pubDate>Mon, 19 May 2025 22:56:01 +0800</pubDate>
-      
-      <guid>https://zrs.me/39/</guid>
-      <description>&lt;h1 id=&#34;权益法&#34;&gt;权益法&lt;/h1&gt;
-&lt;p&gt;什么时候用权益法？ 达不到控制的情况下（&lt;strong&gt;共同控制&lt;/strong&gt;，&lt;strong&gt;重大影响&lt;/strong&gt;），采用权益法核算，达到控制采用成本法核算。&lt;/p&gt;
-&lt;p&gt;科目设置：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;长期股权投资-投资成本
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -损益调整
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -其他综合收益
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;           -其他权益变动
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;初始投资成本的调整&#34;&gt;初始投资成本的调整&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;初始投资成本&lt;/strong&gt;为实际付出的对价+初始直接费用&lt;br&gt;
-&lt;strong&gt;投资日享有的被投资单位可辨认净资产的公允价值份额&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;以上两个按高的算&lt;/strong&gt;，如果第2个高了，也就是花低价买到了高公允价的资产，形成的差额计&lt;strong&gt;营业外收入&lt;/strong&gt;，这样的话是两个分录：&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>学习-实务-长投-非同控下的企业合并</title>
-      <link>https://zrs.me/36/</link>
-      <pubDate>Fri, 16 May 2025 04:07:03 +0800</pubDate>
-      
-      <guid>https://zrs.me/36/</guid>
-      <description>非同一控制下的企业合并之初始计量</description>
-    </item>
-    
-    <item>
-      <title>学习-实务-长投-同控下的企业合并</title>
-      <link>https://zrs.me/34/</link>
-      <pubDate>Wed, 14 May 2025 23:27:57 +0800</pubDate>
-      
-      <guid>https://zrs.me/34/</guid>
-      <description>同一控制下的企业合并之初始计量</description>
-    </item>
-    
-    <item>
-      <title>学习-财务管理-筹资管理（下）</title>
-      <link>https://zrs.me/29/</link>
-      <pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate>
-      
-      <guid>https://zrs.me/29/</guid>
-      <description>&lt;h2 id=&#34;第一节-资金需要量的预测&#34;&gt;第一节 资金需要量的预测&lt;/h2&gt;
-&lt;h4 id=&#34;因素分析法&#34;&gt;因素分析法&lt;/h4&gt;
-&lt;p&gt;又称分析调法，根据预算年度生产经营和资金周转加速的要求，进行分析调整。&lt;br&gt;
-公式：&lt;br&gt;
-&lt;strong&gt;资金需要量=（基期平均资金用量-不合理的资金占用量）×（1+预测销售增长率）÷（1+预测资金周转速度增长率）&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;（基期平均资金用量-不合理的资金占用量）&lt;/strong&gt; 可视为基期合理的资金占用量。&lt;br&gt;
-（计算时如果给出资金周转速度减慢或销售增长降低，则为负号，按减法计算）
-特点：计算简便，易于掌握，但预测结果不太精确。&lt;br&gt;
-适用：品种繁多，规格复杂，资金占用量较小的项目。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>学习-实务-无形资产</title>
-      <link>https://zrs.me/20/</link>
-      <pubDate>Mon, 21 Apr 2025 21:46:06 +0800</pubDate>
-      
-      <guid>https://zrs.me/20/</guid>
-      <description>无形资产的核算方面与固定资产类似，要简单一些。</description>
-    </item>
-    
-    <item>
-      <title>学习 实务 固定资产</title>
-      <link>https://zrs.me/18/</link>
-      <pubDate>Sun, 13 Apr 2025 23:35:38 +0800</pubDate>
-      
-      <guid>https://zrs.me/18/</guid>
-      <description>固定资产是必考的基础章节，通常与所得税联系在一起。</description>
-    </item>
-    
-    <item>
-      <title>学习-实务-存货委托加工中的消费税</title>
-      <link>https://zrs.me/17/</link>
-      <pubDate>Sun, 13 Apr 2025 02:28:42 +0800</pubDate>
-      
-      <guid>https://zrs.me/17/</guid>
-      <description>委托加工中涉及到的消费税是否计入存货成本</description>
-    </item>
-    
-    <item>
-      <title>学习-财务管理-衍生工具筹资-认股权证、优先股</title>
-      <link>https://zrs.me/13/</link>
-      <pubDate>Tue, 08 Apr 2025 01:07:51 +0800</pubDate>
-      
-      <guid>https://zrs.me/13/</guid>
-      <description>衍生工具筹资 认股权证、优先股 以及 资本成本高低比较</description>
-    </item>
-    
-    <item>
-      <title>学习-财务管理-衍生工具筹资-可转换债券</title>
-      <link>https://zrs.me/8/</link>
-      <pubDate>Sat, 05 Apr 2025 00:03:00 +0800</pubDate>
-      
-      <guid>https://zrs.me/8/</guid>
-      <description>可转换债券  性质  分类  要素  优点  缺点</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学习 on 自如说</title><link>https://zrs.me/tags/%E5%AD%A6%E4%B9%A0/</link><description>Recent content in 学习 on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 19 May 2025 22:56:01 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>学习-实务-长投-权益法下长投的核算</title><link>https://zrs.me/39/</link><pubDate>Mon, 19 May 2025 22:56:01 +0800</pubDate><guid>https://zrs.me/39/</guid><description>&lt;h1 id="权益法">权益法&lt;/h1>
+&lt;p>什么时候用权益法？ 达不到控制的情况下（&lt;strong>共同控制&lt;/strong>，&lt;strong>重大影响&lt;/strong>），采用权益法核算，达到控制采用成本法核算。&lt;/p>
+&lt;p>科目设置：&lt;/p>
+&lt;div
+ class="code-block-container border-border bg-card my-6 overflow-hidden rounded-xl border shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md">
+ 
+ &lt;div
+ class="code-block-header bg-muted/30 border-border flex items-center justify-between border-b px-4 py-3">
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;div class="text-muted-foreground flex-shrink-0">
+ 
+ &lt;svg class="h-4 w-4"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+&lt;/svg>
+ &lt;/div>
+ &lt;span class="text-muted-foreground text-sm font-medium">
+ TEXT
+ &lt;/span>
+ &lt;/div>
+
+ 
+ &lt;div class="flex items-center gap-2">
+ &lt;button
+ class="collapse-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ data-default-state="expanded"
+ data-collapsed="false"
+ data-auto-collapse-lines="30"
+ data-auto-collapse-height="400"
+ data-collapsed-height="120"
+ title="折叠"
+ aria-label="折叠">
+ &lt;span class="collapse-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/>&lt;/svg>
+ &lt;/span>
+ &lt;span class="collapse-text hidden sm:inline"
+ >折叠&lt;/span
+ >
+ &lt;/button>
+ &lt;button
+ class="copy-code-btn text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex items-center gap-1.5 rounded-md px-2 py-1 text-xs font-medium transition-all duration-200 ease-out focus:ring-2 focus:outline-none"
+ data-code-id="code-0"
+ title="复制"
+ aria-label="复制">
+ &lt;span class="copy-icon">
+ 
+ &lt;svg class="h-3 w-3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+&lt;/svg>
+ &lt;/span>
+ &lt;span class="copy-text hidden sm:inline"
+ >复制&lt;/span
+ >
+ &lt;/button>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ &lt;div class="code-block-content relative" id="code-0">
+ &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">长期股权投资-投资成本
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -损益调整
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -其他综合收益
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -其他权益变动&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ 
+ &lt;div
+ class="collapse-overlay to-card/90 pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent opacity-0 transition-opacity duration-300">
+ &lt;div
+ class="text-muted-foreground bg-card/80 border-border/50 hover:bg-primary/10 hover:text-primary hover:border-primary/30 absolute bottom-4 left-1/2 -translate-x-1/2 cursor-pointer rounded-full border px-3 py-1.5 text-xs backdrop-blur-sm transition-all duration-200">
+ 点击展开查看更多
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+&lt;script>
+(function() {
+ const codeId = 'code-0';
+ const copyBtn = document.querySelector('.copy-code-btn[data-code-id="' + codeId + '"]');
+ const collapseBtn = document.querySelector('.collapse-code-btn[data-code-id="' + codeId + '"]');
+ const codeContainer = document.getElementById(codeId);
+
+ if (!codeContainer) return;
+
+ 
+ if (copyBtn) {
+ const copyIcon = copyBtn.querySelector('.copy-icon');
+ const copyText = copyBtn.querySelector('.copy-text');
+
+ copyBtn.addEventListener('click', async function() {
+ try {
+ 
+ let codeText = '';
+
+ 
+ const codeTableCell = codeContainer.querySelector('.lntd:last-child code');
+ if (codeTableCell) {
+ codeText = codeTableCell.textContent || codeTableCell.innerText;
+ } else {
+ 
+ const codeElement = codeContainer.querySelector('code');
+ if (codeElement) {
+ 
+ const hasInlineLineNumbers = codeElement.querySelector('.ln');
+ if (hasInlineLineNumbers) {
+ 
+ const codeLines = codeElement.querySelectorAll('.cl');
+ if (codeLines.length > 0) {
+ codeText = Array.from(codeLines)
+ .map(line => {
+ const text = line.textContent || line.innerText;
+ 
+ return text.replace(/\n+$/, '');
+ })
+ .join('\n')
+ .replace(/\n+$/, ''); 
+ } else {
+ 
+ const allText = codeElement.textContent || codeElement.innerText;
+ codeText = allText.replace(/^\d+/gm, '').replace(/^\s+/gm, '');
+ }
+ } else {
+ 
+ codeText = codeElement.textContent || codeElement.innerText;
+ }
+ } else {
+ 
+ codeText = codeContainer.textContent || codeContainer.innerText;
+ }
+ }
+
+ 
+ codeText = codeText.trim();
+
+ 
+ await navigator.clipboard.writeText(codeText);
+
+ 
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M5 13l4 4L19 7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '已复制';
+ }
+ copyBtn.classList.add('text-green-600');
+
+ 
+ setTimeout(() => {
+ copyIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ copyBtn.classList.remove('text-green-600');
+ }, 2000);
+
+ } catch (err) {
+ console.error('复制失败:', err);
+
+ 
+ const range = document.createRange();
+ const codeElement = codeContainer.querySelector('code') || codeContainer;
+ range.selectNodeContents(codeElement);
+ const selection = window.getSelection();
+ selection.removeAllRanges();
+ selection.addRange(range);
+
+ 
+ if (copyText) {
+ copyText.textContent = '已选择';
+ }
+
+ setTimeout(() => {
+ if (copyText) {
+ copyText.textContent = '复制';
+ }
+ selection.removeAllRanges();
+ }, 2000);
+ }
+ });
+ }
+
+ 
+ if (collapseBtn) {
+ const collapseIcon = collapseBtn.querySelector('.collapse-icon');
+ const collapseText = collapseBtn.querySelector('.collapse-text');
+ const collapseOverlay = codeContainer.querySelector('.collapse-overlay');
+
+ 
+ let codeElement = codeContainer.querySelector('pre.chroma');
+ if (!codeElement) {
+ codeElement = codeContainer.querySelector('pre');
+ }
+
+ const defaultState = collapseBtn.dataset.defaultState || 'expanded';
+ const isCollapsedAttr = collapseBtn.dataset.collapsed === 'true';
+ const autoCollapseLines = parseInt(collapseBtn.dataset.autoCollapseLines) || 30;
+ const autoCollapseHeight = parseInt(collapseBtn.dataset.autoCollapseHeight) || 400;
+ const collapsedHeight = parseInt(collapseBtn.dataset.collapsedHeight) || 120;
+
+ let isCollapsed = false;
+
+ 
+ function initCollapse() {
+ 
+ const shouldCollapse = isCollapsedAttr ||
+ defaultState === 'collapsed' ||
+ shouldAutoCollapse();
+
+ if (shouldCollapse) {
+ setCollapsed(true, false); 
+ }
+ }
+
+ function shouldAutoCollapse() {
+ 
+ if (codeElement) {
+ const lines = codeElement.querySelectorAll('.line, .cl');
+ const height = codeElement.offsetHeight;
+ return lines.length > autoCollapseLines || height > autoCollapseHeight;
+ }
+
+ 
+ const containerHeight = codeContainer.offsetHeight;
+ if (containerHeight > autoCollapseHeight) {
+ return true;
+ }
+
+ 
+ const textContent = codeContainer.textContent || codeContainer.innerText || '';
+ const estimatedLines = textContent.split('\n').length;
+ return estimatedLines > autoCollapseLines;
+ }
+
+ function setCollapsed(collapsed, animate = true) {
+ if (!collapseOverlay) return;
+
+ isCollapsed = collapsed;
+
+ if (collapsed) {
+ 
+ codeContainer.style.maxHeight = collapsedHeight + 'px';
+ codeContainer.style.overflow = 'hidden';
+ collapseOverlay.style.opacity = '1';
+ collapseOverlay.style.pointerEvents = 'auto';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath stroke-linecap=\u0022round\u0022 stroke-linejoin=\u0022round\u0022 stroke-width=\u00222\u0022 d=\u0022M19 9l-7 7-7-7\u0022 \/\u003e\n\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '展开';
+ }
+ collapseBtn.title = '展开';
+
+ } else {
+ 
+ codeContainer.style.maxHeight = '';
+ codeContainer.style.overflow = '';
+ collapseOverlay.style.opacity = '0';
+ collapseOverlay.style.pointerEvents = 'none';
+
+ 
+ collapseIcon.innerHTML = `\n \u003csvg class=\u0022h-3 w-3\u0022\n fill=\u0022none\u0022\n stroke=\u0022currentColor\u0022\n viewBox=\u00220 0 24 24\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z\u0022\/\u003e\u003c\/svg\u003e`;
+ if (collapseText) {
+ collapseText.textContent = '折叠';
+ }
+ collapseBtn.title = '折叠';
+ }
+
+ 
+ if (animate) {
+ codeContainer.style.transition = 'max-height 0.3s ease-out';
+ setTimeout(() => {
+ codeContainer.style.transition = '';
+ }, 300);
+ }
+ }
+
+ function toggleCollapse() {
+ setCollapsed(!isCollapsed, true);
+ }
+
+ 
+ collapseBtn.addEventListener('click', toggleCollapse);
+
+ 
+ if (collapseOverlay) {
+ collapseOverlay.addEventListener('click', () => {
+ if (isCollapsed) {
+ setCollapsed(false, true);
+ }
+ });
+ }
+
+ 
+ initCollapse();
+ }
+})();
+&lt;/script>
+&lt;h2 id="初始投资成本的调整">初始投资成本的调整&lt;/h2>
+&lt;p>&lt;strong>初始投资成本&lt;/strong>为实际付出的对价+初始直接费用&lt;br>
+&lt;strong>投资日享有的被投资单位可辨认净资产的公允价值份额&lt;/strong>&lt;br>
+&lt;strong>以上两个按高的算&lt;/strong>，如果第2个高了，也就是花低价买到了高公允价的资产，形成的差额计&lt;strong>营业外收入&lt;/strong>，这样的话是两个分录：&lt;/p></description></item><item><title>学习-实务-长投-非同控下的企业合并</title><link>https://zrs.me/36/</link><pubDate>Fri, 16 May 2025 04:07:03 +0800</pubDate><guid>https://zrs.me/36/</guid><description/></item><item><title>学习-实务-长投-同控下的企业合并</title><link>https://zrs.me/34/</link><pubDate>Wed, 14 May 2025 23:27:57 +0800</pubDate><guid>https://zrs.me/34/</guid><description>同一控制下的企业合并之初始计量</description></item><item><title>学习-财务管理-筹资管理（下）</title><link>https://zrs.me/29/</link><pubDate>Fri, 02 May 2025 20:10:43 +0800</pubDate><guid>https://zrs.me/29/</guid><description/></item><item><title>学习-实务-无形资产</title><link>https://zrs.me/20/</link><pubDate>Mon, 21 Apr 2025 21:46:06 +0800</pubDate><guid>https://zrs.me/20/</guid><description/></item><item><title>学习 实务 固定资产</title><link>https://zrs.me/18/</link><pubDate>Sun, 13 Apr 2025 23:35:38 +0800</pubDate><guid>https://zrs.me/18/</guid><description/></item><item><title>学习-实务-存货委托加工中的消费税</title><link>https://zrs.me/17/</link><pubDate>Sun, 13 Apr 2025 02:28:42 +0800</pubDate><guid>https://zrs.me/17/</guid><description/></item><item><title>学习-财务管理-衍生工具筹资-认股权证、优先股</title><link>https://zrs.me/13/</link><pubDate>Tue, 08 Apr 2025 01:07:51 +0800</pubDate><guid>https://zrs.me/13/</guid><description/></item><item><title>学习-财务管理-衍生工具筹资-可转换债券</title><link>https://zrs.me/8/</link><pubDate>Sat, 05 Apr 2025 00:03:00 +0800</pubDate><guid>https://zrs.me/8/</guid><description/></item></channel></rss>
