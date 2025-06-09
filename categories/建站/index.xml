@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>建站 on 自如说</title><link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</link><description>Recent content in 建站 on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 21 May 2025 23:55:28 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml"/><item><title>自如说——博客的新名字</title><link>https://zrs.me/40/</link><pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate><guid>https://zrs.me/40/</guid><description>&lt;p>上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>建站 on 自如说</title><link>https://zrs.me/categories/%E5%BB%BA%E7%AB%99/</link><description>Recent content in 建站 on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 09 Jun 2025 10:22:06 +0800</lastBuildDate><atom:link href="https://zrs.me/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml"/><item><title>更换新主题narrow</title><link>https://zrs.me/41/</link><pubDate>Mon, 09 Jun 2025 10:22:06 +0800</pubDate><guid>https://zrs.me/41/</guid><description>&lt;p>前几天在v2上发现网友的新作品，清新好看，一眼就相中了，调试了两天后终于搬上来了。&lt;/p>
+&lt;p>&lt;div class="not-prose my-8">
+ 
+
+
+
+&lt;figure class="text-center">
+ &lt;div
+ class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl"
+ 
+ style="max-width: 2775px; max-height: 1667px;">
+ 
+ &lt;picture>
+ 
+ &lt;source
+ type="image/webp"
+ srcset="https://zrs.me/41/home_hu_1ff43d78d1fa42bd.webp
+ 320w,/41/home_hu_41369f064fa90521.webp
+ 640w,/41/home_hu_b029dc9678bf9717.webp
+ 960w,/41/home_hu_354ebbd9466b3f5f.webp
+ 1280w,/41/home_hu_c10afdfc64f4fa0e.webp
+ 1600w,/41/home_hu_e2d63b45c640d6d0.webp
+ 1920w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;source
+ type="image/jpeg"
+ srcset="https://zrs.me/41/home_hu_3b241673116ff1fa.jpg
+ 320w,/41/home_hu_2ceb48963a4976d0.jpg
+ 640w,/41/home_hu_1e92142a974e9e54.jpg
+ 960w,/41/home_hu_26b7002a9146f9b7.jpg
+ 1280w,/41/home_hu_b9c5d4352a3c4c23.jpg
+ 1600w,/41/home_hu_e1183da0ffa1ca7b.jpg
+ 1920w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;img
+ src="https://zrs.me/41/home_hu_9409a42c820959dc.png"
+ alt="主题预览"
+ title="主题预览"
+ width="2775"
+ height="1667"
+ style="max-width: 2775px; max-height: 1667px;"
+ class="h-auto w-full transition-transform duration-300 ease-out hover:scale-105"
+ loading="lazy"
+ decoding="async" />
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;figcaption class="text-muted-foreground mt-3 text-sm italic">
+ 主题预览
+ &lt;/figcaption>&lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>主题出处：&lt;a href="https://github.com/tom2almighty/hugo-narrow">https://github.com/tom2almighty/hugo-narrow&lt;/a>&lt;/p>
+&lt;p>喜欢的朋友可以看一下。&lt;/p>
+&lt;p>生命在于折腾！ 🤪🤪&lt;/p></description></item><item><title>自如说——博客的新名字</title><link>https://zrs.me/40/</link><pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate><guid>https://zrs.me/40/</guid><description>&lt;p>上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p>
 &lt;h1 id="自如zì-rú">自如[zì rú]&lt;/h1>
 &lt;p>&lt;div class="not-prose my-8">
  
@@ -66,7 +123,7 @@ AI或许真的有创造性，问了一下deepseek，以简拼zrs，使用&amp;qu
  &lt;div
  class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl">
  &lt;img
- src="https:/tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
+ src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  alt="img202504300117.png"
  
  class="h-auto w-full max-w-full transition-transform duration-300 ease-out hover:scale-105"

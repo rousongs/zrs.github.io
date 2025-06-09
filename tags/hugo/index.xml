@@ -1,11 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 自如说</title><link>https://zrs.me/tags/hugo/</link><description>Recent content in Hugo on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 16 May 2025 12:30:46 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>认识hugo的页面包（Page Bundles）</title><link>https://zrs.me/38/</link><pubDate>Fri, 16 May 2025 12:30:46 +0800</pubDate><guid>https://zrs.me/38/</guid><description/></item><item><title>文章固定链接及图文的组织方式</title><link>https://zrs.me/35/</link><pubDate>Thu, 15 May 2025 23:14:08 +0800</pubDate><guid>https://zrs.me/35/</guid><description/></item><item><title>【PowerShell】因为在此系统上禁止运行脚本的解决方法</title><link>https://zrs.me/33/</link><pubDate>Wed, 07 May 2025 16:11:12 +0800</pubDate><guid>https://zrs.me/33/</guid><description/></item><item><title>优化博客中文章的固定链接</title><link>https://zrs.me/32/</link><pubDate>Tue, 06 May 2025 12:17:15 +0800</pubDate><guid>https://zrs.me/32/</guid><description/></item><item><title>对于hugo版本的认识</title><link>https://zrs.me/31/</link><pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate><guid>https://zrs.me/31/</guid><description/></item><item><title>文章固定链接的设置</title><link>https://zrs.me/30/</link><pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate><guid>https://zrs.me/30/</guid><description/></item><item><title>优化博客文章md文件的排序</title><link>https://zrs.me/28/</link><pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate><guid>https://zrs.me/28/</guid><description>&lt;p>本站正式启用一月有余，随着文章越写越多，vs code 编辑器左侧的工作区文件浏览令我十分困惑，文章的顺序好像不是按日期排序的，好像是按字母排序。一眼望去不知道先后顺序和写作日期。如图：&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 自如说</title><link>https://zrs.me/tags/hugo/</link><description>Recent content in Hugo on 自如说</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 09 Jun 2025 10:22:06 +0800</lastBuildDate><atom:link href="https://zrs.me/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>更换新主题narrow</title><link>https://zrs.me/41/</link><pubDate>Mon, 09 Jun 2025 10:22:06 +0800</pubDate><guid>https://zrs.me/41/</guid><description>&lt;p>前几天在v2上发现网友的新作品，清新好看，一眼就相中了，调试了两天后终于搬上来了。&lt;/p>
+&lt;p>&lt;div class="not-prose my-8">
+ 
+
+
+
+&lt;figure class="text-center">
+ &lt;div
+ class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl"
+ 
+ style="max-width: 2775px; max-height: 1667px;">
+ 
+ &lt;picture>
+ 
+ &lt;source
+ type="image/webp"
+ srcset="https://zrs.me/41/home_hu_1ff43d78d1fa42bd.webp
+ 320w,/41/home_hu_41369f064fa90521.webp
+ 640w,/41/home_hu_b029dc9678bf9717.webp
+ 960w,/41/home_hu_354ebbd9466b3f5f.webp
+ 1280w,/41/home_hu_c10afdfc64f4fa0e.webp
+ 1600w,/41/home_hu_e2d63b45c640d6d0.webp
+ 1920w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;source
+ type="image/jpeg"
+ srcset="https://zrs.me/41/home_hu_3b241673116ff1fa.jpg
+ 320w,/41/home_hu_2ceb48963a4976d0.jpg
+ 640w,/41/home_hu_1e92142a974e9e54.jpg
+ 960w,/41/home_hu_26b7002a9146f9b7.jpg
+ 1280w,/41/home_hu_b9c5d4352a3c4c23.jpg
+ 1600w,/41/home_hu_e1183da0ffa1ca7b.jpg
+ 1920w"
+ sizes="(min-width: 1024px) 960px, (min-width: 768px) 720px, 100vw" />
+
+ 
+ &lt;img
+ src="https://zrs.me/41/home_hu_9409a42c820959dc.png"
+ alt="主题预览"
+ title="主题预览"
+ width="2775"
+ height="1667"
+ style="max-width: 2775px; max-height: 1667px;"
+ class="h-auto w-full transition-transform duration-300 ease-out hover:scale-105"
+ loading="lazy"
+ decoding="async" />
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;figcaption class="text-muted-foreground mt-3 text-sm italic">
+ 主题预览
+ &lt;/figcaption>&lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>主题出处：&lt;a href="https://github.com/tom2almighty/hugo-narrow">https://github.com/tom2almighty/hugo-narrow&lt;/a>&lt;/p>
+&lt;p>喜欢的朋友可以看一下。&lt;/p>
+&lt;p>生命在于折腾！ 🤪🤪&lt;/p></description></item><item><title>认识hugo的页面包（Page Bundles）</title><link>https://zrs.me/38/</link><pubDate>Fri, 16 May 2025 12:30:46 +0800</pubDate><guid>https://zrs.me/38/</guid><description/></item><item><title>文章固定链接及图文的组织方式</title><link>https://zrs.me/35/</link><pubDate>Thu, 15 May 2025 23:14:08 +0800</pubDate><guid>https://zrs.me/35/</guid><description/></item><item><title>【PowerShell】因为在此系统上禁止运行脚本的解决方法</title><link>https://zrs.me/33/</link><pubDate>Wed, 07 May 2025 16:11:12 +0800</pubDate><guid>https://zrs.me/33/</guid><description/></item><item><title>优化博客中文章的固定链接</title><link>https://zrs.me/32/</link><pubDate>Tue, 06 May 2025 12:17:15 +0800</pubDate><guid>https://zrs.me/32/</guid><description/></item><item><title>对于hugo版本的认识</title><link>https://zrs.me/31/</link><pubDate>Mon, 05 May 2025 02:24:23 +0800</pubDate><guid>https://zrs.me/31/</guid><description/></item><item><title>文章固定链接的设置</title><link>https://zrs.me/30/</link><pubDate>Mon, 05 May 2025 01:22:57 +0800</pubDate><guid>https://zrs.me/30/</guid><description/></item><item><title>优化博客文章md文件的排序</title><link>https://zrs.me/28/</link><pubDate>Wed, 30 Apr 2025 01:29:19 +0800</pubDate><guid>https://zrs.me/28/</guid><description>&lt;p>本站正式启用一月有余，随着文章越写越多，vs code 编辑器左侧的工作区文件浏览令我十分困惑，文章的顺序好像不是按日期排序的，好像是按字母排序。一眼望去不知道先后顺序和写作日期。如图：&lt;br>
 &lt;div class="not-prose my-8">
  
  &lt;figure class="text-center">
  &lt;div
  class="inline-block overflow-hidden rounded-xl shadow-lg transition-all duration-300 ease-out hover:shadow-xl">
  &lt;img
- src="https:/tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
+ src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  alt="img202504300117.png"
  
  class="h-auto w-full max-w-full transition-transform duration-300 ease-out hover:scale-105"
