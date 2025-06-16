@@ -1,52 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ホーム on 自如说</title><link>https://zrs.me/ja/</link><description>Recent content in ホーム on 自如说</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://zrs.me/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHubスタイルアラートテスト</title><link>https://zrs.me/ja/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/test-alert/</guid><description>&lt;h1 id="githubスタイルアラートテスト">GitHubスタイルアラートテスト&lt;/h1>
-&lt;p>この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p>
-&lt;h2 id="アラート構文">アラート構文&lt;/h2>
-&lt;h3 id="ノートアラート">ノートアラート&lt;/h3>
-&lt;div
- class="alert alert-note my-6 overflow-hidden rounded-lg border-l-4 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
- style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
- border-left-color: var(--color-note);
- --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
- onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
- onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
- role="alert"
- aria-labelledby="alert-0-title">
- 
- &lt;div
- class=" flex items-center justify-between p-4"
- >
- &lt;div class="flex items-center gap-3">
- 
- &lt;div
- class="flex-shrink-0"
- style="color: var(--color-note);">
- 
- &lt;svg class="h-5 w-5"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-&lt;/svg>
- &lt;/div>
-
- 
- &lt;h4
- id="alert-0-title"
- class="m-0 font-semibold"
- style="color: var(--color-note);">
- 注意
- &lt;/h4>
- &lt;/div>
-
- 
- 
- &lt;/div>
-
- 
- &lt;div
- id="alert-0-content"
- class="alert-content px-4 pb-4">
- &lt;div class="prose prose-sm text-foreground/90 max-w-none">
- &lt;p>これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p></description></item><item><title>KaTeXとMermaidテスト</title><link>https://zrs.me/ja/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/katex-mermaid-test/</guid><description>&lt;h1 id="katexとmermaidテスト">KaTeXとMermaidテスト&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ホーム on 自如说</title><link>https://zrs.me/ja/</link><description>Recent content in ホーム on 自如说</description><generator>Hugo</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate><atom:link href="https://zrs.me/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>KaTeXとMermaidテスト</title><link>https://zrs.me/ja/katex-mermaid-test/</link><pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/katex-mermaid-test/</guid><description>&lt;h1 id="katexとmermaidテスト">KaTeXとMermaidテスト&lt;/h1>
 &lt;p>この記事はKaTeX数式レンダリングとMermaidチャート機能をテストするために使用されます。&lt;/p>
 &lt;h2 id="mermaidチャートテスト">Mermaidチャートテスト&lt;/h2>
 &lt;h3 id="フローチャート">フローチャート&lt;/h3>
@@ -258,7 +210,55 @@
 
  &lt;figcaption class="image-caption">
  撮影者 - David Marcu
- &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>コードハイライトテスト</title><link>https://zrs.me/ja/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/code-highlighting-test/</guid><description>&lt;h1 id="コードハイライトテスト">コードハイライトテスト&lt;/h1>
+ &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Markdown構文テストドキュメント</title><link>https://zrs.me/ja/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid><description>これは様々なMarkdown構文を含むテストドキュメントで、プロススタイルの完全性を検証するためのものです。</description></item><item><title>GitHubスタイルアラートテスト</title><link>https://zrs.me/ja/test-alert/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/ja/test-alert/</guid><description>&lt;h1 id="githubスタイルアラートテスト">GitHubスタイルアラートテスト&lt;/h1>
+&lt;p>この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p>
+&lt;h2 id="アラート構文">アラート構文&lt;/h2>
+&lt;h3 id="ノートアラート">ノートアラート&lt;/h3>
+&lt;div
+ class="alert alert-note my-6 overflow-hidden rounded-lg border-l-4 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
+ style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+ border-left-color: var(--color-note);
+ --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
+ onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
+ onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
+ role="alert"
+ aria-labelledby="alert-0-title">
+ 
+ &lt;div
+ class=" flex items-center justify-between p-4"
+ >
+ &lt;div class="flex items-center gap-3">
+ 
+ &lt;div
+ class="flex-shrink-0"
+ style="color: var(--color-note);">
+ 
+ &lt;svg class="h-5 w-5"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+&lt;/svg>
+ &lt;/div>
+
+ 
+ &lt;h4
+ id="alert-0-title"
+ class="m-0 font-semibold"
+ style="color: var(--color-note);">
+ 注意
+ &lt;/h4>
+ &lt;/div>
+
+ 
+ 
+ &lt;/div>
+
+ 
+ &lt;div
+ id="alert-0-content"
+ class="alert-content px-4 pb-4">
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none">
+ &lt;p>これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p></description></item><item><title>コードハイライトテスト</title><link>https://zrs.me/ja/code-highlighting-test/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/ja/code-highlighting-test/</guid><description>&lt;h1 id="コードハイライトテスト">コードハイライトテスト&lt;/h1>
 &lt;p>この記事は新しいコードハイライト機能をテストするために使用されます。シンタックスハイライト、コピーボタン、言語表示などが含まれます。&lt;/p>
 &lt;h2 id="javascript">JavaScript&lt;/h2>
 &lt;div
@@ -1875,4 +1875,4 @@ function test() {
 })();
 &lt;/script>
 &lt;h2 id="インラインコード">インラインコード&lt;/h2>
-&lt;p>これはインラインコードの例です：&lt;code>const x = 42;&lt;/code> と &lt;code>npm install&lt;/code> と &lt;code>git commit -m &amp;quot;更新&amp;quot;&lt;/code>。&lt;/p></description></item><item><title>Markdown構文テストドキュメント</title><link>https://zrs.me/ja/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/ja/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid><description>これは様々なMarkdown構文を含むテストドキュメントで、プロススタイルの完全性を検証するためのものです。</description></item></channel></rss>
+&lt;p>これはインラインコードの例です：&lt;code>const x = 42;&lt;/code> と &lt;code>npm install&lt;/code> と &lt;code>git commit -m &amp;quot;更新&amp;quot;&lt;/code>。&lt;/p></description></item></channel></rss>

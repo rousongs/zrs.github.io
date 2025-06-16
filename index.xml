@@ -343,55 +343,7 @@
  &lt;/figcaption>&lt;/figure>&lt;/p>
 &lt;p>主题出处：&lt;a href="https://github.com/tom2almighty/hugo-narrow">https://github.com/tom2almighty/hugo-narrow&lt;/a>&lt;/p>
 &lt;p>喜欢的朋友可以看一下。&lt;/p>
-&lt;p>生命在于折腾！ 🤪🤪&lt;/p></description></item><item><title>GitHub 风格提示框测试</title><link>https://zrs.me/test-alert/</link><pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate><guid>https://zrs.me/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试">GitHub 风格提示框测试&lt;/h1>
-&lt;p>本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p>
-&lt;h2 id="提示框语法">提示框语法&lt;/h2>
-&lt;h3 id="注意提示框">注意提示框&lt;/h3>
-&lt;div
- class="alert alert-note my-6 overflow-hidden rounded-lg border-l-4 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
- style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
- border-left-color: var(--color-note);
- --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
- onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
- onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
- role="alert"
- aria-labelledby="alert-0-title">
- 
- &lt;div
- class=" flex items-center justify-between p-4"
- >
- &lt;div class="flex items-center gap-3">
- 
- &lt;div
- class="flex-shrink-0"
- style="color: var(--color-note);">
- 
- &lt;svg class="h-5 w-5"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-&lt;/svg>
- &lt;/div>
-
- 
- &lt;h4
- id="alert-0-title"
- class="m-0 font-semibold"
- style="color: var(--color-note);">
- 注意
- &lt;/h4>
- &lt;/div>
-
- 
- 
- &lt;/div>
-
- 
- &lt;div
- id="alert-0-content"
- class="alert-content px-4 pb-4">
- &lt;div class="prose prose-sm text-foreground/90 max-w-none">
- &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item><item><title>自如说——博客的新名字</title><link>https://zrs.me/40/</link><pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate><guid>https://zrs.me/40/</guid><description>&lt;p>上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p>
+&lt;p>生命在于折腾！ 🤪🤪&lt;/p></description></item><item><title>自如说——博客的新名字</title><link>https://zrs.me/40/</link><pubDate>Wed, 21 May 2025 23:55:28 +0800</pubDate><guid>https://zrs.me/40/</guid><description>&lt;p>上个名字有点胡闹了，这次起个有意境的名字，zr&amp;ndash;自如，zrs&amp;ndash;自如说。&lt;/p>
 &lt;h1 id="自如zì-rú">自如[zì rú]&lt;/h1>
 &lt;p>
 &lt;figure class="image-figure not-prose my-8" data-gallery-enabled="false">
@@ -806,155 +758,7 @@
 
 &lt;h2 id="katex-测试">KaTeX 测试&lt;/h2>
 &lt;h3 id="行内公式">行内公式&lt;/h3>
-&lt;p>这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p></description></item><item><title>图片渲染测试</title><link>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试">图片渲染测试&lt;/h1>
-&lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/">LightGallery&lt;/a>
-所有图片来自 &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
-&lt;h2 id="单张图片">单张图片&lt;/h2>
-&lt;p>
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
- alt="https://unsplash.com/@danielleone"
- title="摄影师 - Daniel Leone"
- 
- data-modal="title: 摄影师 - Daniel Leone; description: https://unsplash.com/@danielleone"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Daniel Leone
- &lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;h2 id="lightgallery-灯箱加-justified-布局">LightGallery 灯箱加 Justified 布局&lt;/h2>
-&lt;p>
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/01.avif"
- alt="https://unsplash.com/@@tobbes_rd"
- title="摄影师 - Tobias Rademacher"
- 
- data-modal="title: 摄影师 - Tobias Rademacher; description: https://unsplash.com/@@tobbes_rd"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Tobias Rademacher
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/02.avif"
- alt="https://unsplash.com/@therawhunter"
- title="摄影师 - Massimiliano Morosinotto"
- 
- data-modal="title: 摄影师 - Massimiliano Morosinotto; description: https://unsplash.com/@therawhunter"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Massimiliano Morosinotto
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/03.avif"
- alt="https://unsplash.com/@thesaboo"
- title="摄影师 - Sascha Bosshard"
- 
- data-modal="title: 摄影师 - Sascha Bosshard; description: https://unsplash.com/@thesaboo"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Sascha Bosshard
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/04.avif"
- alt="https://unsplash.com/@yusufevli"
- title="摄影师 - Yusuf Evli"
- 
- data-modal="title: 摄影师 - Yusuf Evli; description: https://unsplash.com/@yusufevli"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Yusuf Evli
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/05.avif"
- alt="https://unsplash.com/@flovayn"
- title="摄影师 - Jay Mantri"
- 
- data-modal="title: 摄影师 - Jay Mantri; description: https://unsplash.com/@flovayn"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Jay Mantri
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/06.avif"
- alt="https://unsplash.com/@flovayn"
- title="摄影师 - Florian van Duyn"
- 
- data-modal="title: 摄影师 - Florian van Duyn; description: https://unsplash.com/@flovayn"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Florian van Duyn
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/07.avif"
- alt="https://unsplash.com/@juanster"
- title="摄影师 - Juan Davila"
- 
- data-modal="title: 摄影师 - Juan Davila; description: https://unsplash.com/@juanster"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Juan Davila
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
- &lt;div class="image-container">
- 
- &lt;img
- src="https://zrs.me/images/08.avif"
- alt="https://unsplash.com/@davidmarcu"
- title="摄影师 - David Marcu"
- 
- data-modal="title: 摄影师 - David Marcu; description: https://unsplash.com/@davidmarcu"
- loading="lazy"
- decoding="async" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - David Marcu
- &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>代码高亮测试</title><link>https://zrs.me/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试">代码高亮测试&lt;/h1>
+&lt;p>这是一个行内公式：$E = mc^2$，爱因斯坦的质能等价公式。&lt;/p></description></item><item><title>代码高亮测试</title><link>https://zrs.me/code-highlighting-test/</link><pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/code-highlighting-test/</guid><description>&lt;h1 id="代码高亮测试">代码高亮测试&lt;/h1>
 &lt;p>本文用于测试新的代码高亮功能，包括语法高亮、复制按钮、语言显示等。&lt;/p>
 &lt;h2 id="javascript">JavaScript&lt;/h2>
 &lt;div
@@ -2571,4 +2375,200 @@ function test() {
 })();
 &lt;/script>
 &lt;h2 id="行内代码">行内代码&lt;/h2>
-&lt;p>这是一个行内代码示例：&lt;code>const x = 42;&lt;/code> 和 &lt;code>npm install&lt;/code> 以及 &lt;code>git commit -m &amp;quot;更新&amp;quot;&lt;/code>。&lt;/p></description></item><item><title>Markdown 语法测试文档</title><link>https://zrs.me/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid><description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description></item></channel></rss>
+&lt;p>这是一个行内代码示例：&lt;code>const x = 42;&lt;/code> 和 &lt;code>npm install&lt;/code> 以及 &lt;code>git commit -m &amp;quot;更新&amp;quot;&lt;/code>。&lt;/p></description></item><item><title>Markdown 语法测试文档</title><link>https://zrs.me/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://zrs.me/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid><description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description></item><item><title>GitHub 风格提示框测试</title><link>https://zrs.me/test-alert/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/test-alert/</guid><description>&lt;h1 id="github-风格提示框测试">GitHub 风格提示框测试&lt;/h1>
+&lt;p>本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p>
+&lt;h2 id="提示框语法">提示框语法&lt;/h2>
+&lt;h3 id="注意提示框">注意提示框&lt;/h3>
+&lt;div
+ class="alert alert-note my-6 overflow-hidden rounded-lg border-l-4 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
+ style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+ border-left-color: var(--color-note);
+ --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
+ onmouseover="this.style.backgroundColor = this.style.getPropertyValue('--hover-bg')"
+ onmouseout="this.style.backgroundColor = 'color-mix(in srgb, var(--color-note) 10%, transparent)'"
+ role="alert"
+ aria-labelledby="alert-0-title">
+ 
+ &lt;div
+ class=" flex items-center justify-between p-4"
+ >
+ &lt;div class="flex items-center gap-3">
+ 
+ &lt;div
+ class="flex-shrink-0"
+ style="color: var(--color-note);">
+ 
+ &lt;svg class="h-5 w-5"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+&lt;/svg>
+ &lt;/div>
+
+ 
+ &lt;h4
+ id="alert-0-title"
+ class="m-0 font-semibold"
+ style="color: var(--color-note);">
+ 注意
+ &lt;/h4>
+ &lt;/div>
+
+ 
+ 
+ &lt;/div>
+
+ 
+ &lt;div
+ id="alert-0-content"
+ class="alert-content px-4 pb-4">
+ &lt;div class="prose prose-sm text-foreground/90 max-w-none">
+ &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item><item><title>图片渲染测试</title><link>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试">图片渲染测试&lt;/h1>
+&lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/">LightGallery&lt;/a>
+所有图片来自 &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
+&lt;h2 id="单张图片">单张图片&lt;/h2>
+&lt;p>
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ alt="https://unsplash.com/@danielleone"
+ title="摄影师 - Daniel Leone"
+ 
+ data-modal="title: 摄影师 - Daniel Leone; description: https://unsplash.com/@danielleone"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Daniel Leone
+ &lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;h2 id="lightgallery-灯箱加-justified-布局">LightGallery 灯箱加 Justified 布局&lt;/h2>
+&lt;p>
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/01.avif"
+ alt="https://unsplash.com/@@tobbes_rd"
+ title="摄影师 - Tobias Rademacher"
+ 
+ data-modal="title: 摄影师 - Tobias Rademacher; description: https://unsplash.com/@@tobbes_rd"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Tobias Rademacher
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/02.avif"
+ alt="https://unsplash.com/@therawhunter"
+ title="摄影师 - Massimiliano Morosinotto"
+ 
+ data-modal="title: 摄影师 - Massimiliano Morosinotto; description: https://unsplash.com/@therawhunter"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Massimiliano Morosinotto
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/03.avif"
+ alt="https://unsplash.com/@thesaboo"
+ title="摄影师 - Sascha Bosshard"
+ 
+ data-modal="title: 摄影师 - Sascha Bosshard; description: https://unsplash.com/@thesaboo"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Sascha Bosshard
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/04.avif"
+ alt="https://unsplash.com/@yusufevli"
+ title="摄影师 - Yusuf Evli"
+ 
+ data-modal="title: 摄影师 - Yusuf Evli; description: https://unsplash.com/@yusufevli"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Yusuf Evli
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/05.avif"
+ alt="https://unsplash.com/@flovayn"
+ title="摄影师 - Jay Mantri"
+ 
+ data-modal="title: 摄影师 - Jay Mantri; description: https://unsplash.com/@flovayn"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Jay Mantri
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/06.avif"
+ alt="https://unsplash.com/@flovayn"
+ title="摄影师 - Florian van Duyn"
+ 
+ data-modal="title: 摄影师 - Florian van Duyn; description: https://unsplash.com/@flovayn"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Florian van Duyn
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/07.avif"
+ alt="https://unsplash.com/@juanster"
+ title="摄影师 - Juan Davila"
+ 
+ data-modal="title: 摄影师 - Juan Davila; description: https://unsplash.com/@juanster"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Juan Davila
+ &lt;/figcaption>&lt;/figure>
+
+&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+ &lt;div class="image-container">
+ 
+ &lt;img
+ src="https://zrs.me/images/08.avif"
+ alt="https://unsplash.com/@davidmarcu"
+ title="摄影师 - David Marcu"
+ 
+ data-modal="title: 摄影师 - David Marcu; description: https://unsplash.com/@davidmarcu"
+ loading="lazy"
+ decoding="async" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - David Marcu
+ &lt;/figcaption>&lt;/figure>&lt;/p></description></item></channel></rss>
