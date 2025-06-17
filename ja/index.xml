@@ -67,7 +67,9 @@
 すべての画像は &lt;a href="https://unsplash.com/">Unsplash&lt;/a> より。&lt;/p>
 &lt;h2 id="単一画像">単一画像&lt;/h2>
 &lt;p>
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -75,16 +77,20 @@
  alt="https://unsplash.com/@danielleone"
  title="撮影者 - Daniel Leone"
  
- data-modal="title: 撮影者 - Daniel Leone; description: https://unsplash.com/@danielleone"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ data-gallery-alt="https://unsplash.com/@danielleone"
+ data-gallery-title="撮影者 - Daniel Leone" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Daniel Leone
  &lt;/figcaption>&lt;/figure>&lt;/p>
 &lt;h2 id="ライトギャラリー--ジャスティファイドギャラリー">ライトギャラリー + ジャスティファイドギャラリー&lt;/h2>
 &lt;p>
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -92,15 +98,19 @@
  alt="https://unsplash.com/@@tobbes_rd"
  title="撮影者 - Tobias Rademacher"
  
- data-modal="title: 撮影者 - Tobias Rademacher; description: https://unsplash.com/@@tobbes_rd"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/01.avif"
+ data-gallery-alt="https://unsplash.com/@@tobbes_rd"
+ data-gallery-title="撮影者 - Tobias Rademacher" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Tobias Rademacher
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -108,15 +118,19 @@
  alt="https://unsplash.com/@therawhunter"
  title="撮影者 - Massimiliano Morosinotto"
  
- data-modal="title: 撮影者 - Massimiliano Morosinotto; description: https://unsplash.com/@therawhunter"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/02.avif"
+ data-gallery-alt="https://unsplash.com/@therawhunter"
+ data-gallery-title="撮影者 - Massimiliano Morosinotto" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Massimiliano Morosinotto
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -124,15 +138,19 @@
  alt="https://unsplash.com/@thesaboo"
  title="撮影者 - Sascha Bosshard"
  
- data-modal="title: 撮影者 - Sascha Bosshard; description: https://unsplash.com/@thesaboo"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/03.avif"
+ data-gallery-alt="https://unsplash.com/@thesaboo"
+ data-gallery-title="撮影者 - Sascha Bosshard" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Sascha Bosshard
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -140,15 +158,19 @@
  alt="https://unsplash.com/@yusufevli"
  title="撮影者 - Yusuf Evli"
  
- data-modal="title: 撮影者 - Yusuf Evli; description: https://unsplash.com/@yusufevli"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/04.avif"
+ data-gallery-alt="https://unsplash.com/@yusufevli"
+ data-gallery-title="撮影者 - Yusuf Evli" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Yusuf Evli
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -156,15 +178,19 @@
  alt="https://unsplash.com/@flovayn"
  title="撮影者 - Jay Mantri"
  
- data-modal="title: 撮影者 - Jay Mantri; description: https://unsplash.com/@flovayn"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/05.avif"
+ data-gallery-alt="https://unsplash.com/@flovayn"
+ data-gallery-title="撮影者 - Jay Mantri" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Jay Mantri
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -172,15 +198,19 @@
  alt="https://unsplash.com/@flovayn"
  title="撮影者 - Florian van Duyn"
  
- data-modal="title: 撮影者 - Florian van Duyn; description: https://unsplash.com/@flovayn"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/06.avif"
+ data-gallery-alt="https://unsplash.com/@flovayn"
+ data-gallery-title="撮影者 - Florian van Duyn" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Florian van Duyn
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -188,15 +218,19 @@
  alt="https://unsplash.com/@juanster"
  title="撮影者 - Juan Davila"
  
- data-modal="title: 撮影者 - Juan Davila; description: https://unsplash.com/@juanster"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/07.avif"
+ data-gallery-alt="https://unsplash.com/@juanster"
+ data-gallery-title="撮影者 - Juan Davila" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - Juan Davila
  &lt;/figcaption>&lt;/figure>
 
-&lt;figure class="image-figure not-prose my-8" data-gallery-enabled="true">
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
  &lt;div class="image-container">
  
  &lt;img
@@ -204,9 +238,11 @@
  alt="https://unsplash.com/@davidmarcu"
  title="撮影者 - David Marcu"
  
- data-modal="title: 撮影者 - David Marcu; description: https://unsplash.com/@davidmarcu"
  loading="lazy"
- decoding="async" />&lt;/div>
+ decoding="async"
+ data-gallery-src="https://zrs.me/images/08.avif"
+ data-gallery-alt="https://unsplash.com/@davidmarcu"
+ data-gallery-title="撮影者 - David Marcu" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  撮影者 - David Marcu
