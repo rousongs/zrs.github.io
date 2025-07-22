@@ -4,26 +4,24 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
- &lt;picture>
- &lt;source
- type="image/webp"
- srcset="https://zrs.me/41/home_hu_b029dc9678bf9717.webp"
- sizes="(min-width: 1024px) 960px, 100vw" />
  &lt;img
- src="https://zrs.me/41/home_hu_9409a42c820959dc.png"
+ src="https://zrs.me/41/home.png"
  alt="主题预览"
  title="主题预览"
  
+ 
+ 
+ 
  width="2775"
  height="1667"
+ 
+ 
  
  loading="lazy"
  decoding="async"
  data-gallery-src="https://zrs.me/41/home.png"
  data-gallery-alt="主题预览"
- data-gallery-title="主题预览" />
- &lt;/picture>&lt;/div>
+ data-gallery-title="主题预览" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  主题预览
@@ -34,14 +32,18 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/40/zr.png"
  alt="Small Image"
  title="自如[zì rú] "
  
+ 
+ 
+ 
  width="400"
  height="211"
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -57,13 +59,13 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  alt="img202504300117.png"
  
+ 
  loading="lazy"
- decoding="async" 
+ decoding="async"
  data-gallery-src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  data-gallery-alt="img202504300117.png"
  data-gallery-title="" />&lt;/div>

@@ -337,26 +337,24 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
- &lt;picture>
- &lt;source
- type="image/webp"
- srcset="https://zrs.me/41/home_hu_b029dc9678bf9717.webp"
- sizes="(min-width: 1024px) 960px, 100vw" />
  &lt;img
- src="https://zrs.me/41/home_hu_9409a42c820959dc.png"
+ src="https://zrs.me/41/home.png"
  alt="主题预览"
  title="主题预览"
  
+ 
+ 
+ 
  width="2775"
  height="1667"
+ 
+ 
  
  loading="lazy"
  decoding="async"
  data-gallery-src="https://zrs.me/41/home.png"
  data-gallery-alt="主题预览"
- data-gallery-title="主题预览" />
- &lt;/picture>&lt;/div>
+ data-gallery-title="主题预览" />&lt;/div>
 
  &lt;figcaption class="image-caption">
  主题预览
@@ -367,14 +365,18 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/40/zr.png"
  alt="Small Image"
  title="自如[zì rú] "
  
+ 
+ 
+ 
  width="400"
  height="211"
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -705,13 +707,13 @@
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  alt="img202504300117.png"
  
+ 
  loading="lazy"
- decoding="async" 
+ decoding="async"
  data-gallery-src="https://tcc.zrs.xyz/usr/uploads/2025/04/1037036207.png"
  data-gallery-alt="img202504300117.png"
  data-gallery-title="" />&lt;/div>
@@ -2456,11 +2458,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
  alt="https://unsplash.com/@danielleone"
  title="摄影师 - Daniel Leone"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2477,11 +2481,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/01.avif"
  alt="https://unsplash.com/@@tobbes_rd"
  title="摄影师 - Tobias Rademacher"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2497,11 +2503,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/02.avif"
  alt="https://unsplash.com/@therawhunter"
  title="摄影师 - Massimiliano Morosinotto"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2517,11 +2525,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/03.avif"
  alt="https://unsplash.com/@thesaboo"
  title="摄影师 - Sascha Bosshard"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2537,11 +2547,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/04.avif"
  alt="https://unsplash.com/@yusufevli"
  title="摄影师 - Yusuf Evli"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2557,11 +2569,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/05.avif"
  alt="https://unsplash.com/@flovayn"
  title="摄影师 - Jay Mantri"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2577,11 +2591,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/06.avif"
  alt="https://unsplash.com/@flovayn"
  title="摄影师 - Florian van Duyn"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2597,11 +2613,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/07.avif"
  alt="https://unsplash.com/@juanster"
  title="摄影师 - Juan Davila"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
@@ -2617,11 +2635,13 @@ function test() {
  data-lightbox-enabled="false"
  data-gallery-type="auto">
  &lt;div class="image-container">
- 
  &lt;img
  src="https://zrs.me/images/08.avif"
  alt="https://unsplash.com/@davidmarcu"
  title="摄影师 - David Marcu"
+ 
+ 
+ 
  
  loading="lazy"
  decoding="async"
