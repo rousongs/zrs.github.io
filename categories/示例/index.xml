@@ -1684,7 +1684,7 @@ function test() {
 &lt;h2 id="提示框语法">提示框语法&lt;/h2>
 &lt;h3 id="注意提示框">注意提示框&lt;/h3>
 &lt;div
- class="alert alert-note my-6 overflow-hidden rounded-lg border-l-4 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
+ class="alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
  style="background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
  border-left-color: var(--color-note);
  --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);"
@@ -1698,22 +1698,9 @@ function test() {
  >
  &lt;div class="flex items-center gap-3">
  
- &lt;div
- class="flex-shrink-0"
- style="color: var(--color-note);">
- 
- &lt;svg class="h-5 w-5"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24">&lt;path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-&lt;/svg>
- &lt;/div>
-
- 
  &lt;h4
  id="alert-0-title"
- class="m-0 font-semibold"
- style="color: var(--color-note);">
+ class="m-0 font-semibold text-foreground/90">
  注意
  &lt;/h4>
  &lt;/div>
