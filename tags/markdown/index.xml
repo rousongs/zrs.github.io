@@ -13,7 +13,7 @@
  aria-labelledby="alert-0-title">
  
  &lt;div
- class=" flex items-center justify-between p-4"
+ class=" flex items-center justify-between px-6 pt-6 pb-3"
  >
  &lt;div class="flex items-center gap-3">
  
@@ -31,6 +31,6 @@
  
  &lt;div
  id="alert-0-content"
- class="alert-content px-4 pb-4">
+ class="alert-content px-6 pb-6">
  &lt;div class="prose prose-sm text-foreground/90 max-w-none">
  &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item></channel></rss>

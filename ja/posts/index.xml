@@ -279,7 +279,7 @@
  aria-labelledby="alert-0-title">
  
  &lt;div
- class=" flex items-center justify-between p-4"
+ class=" flex items-center justify-between px-6 pt-6 pb-3"
  >
  &lt;div class="flex items-center gap-3">
  
@@ -297,7 +297,7 @@
  
  &lt;div
  id="alert-0-content"
- class="alert-content px-4 pb-4">
+ class="alert-content px-6 pb-6">
  &lt;div class="prose prose-sm text-foreground/90 max-w-none">
  &lt;p>これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p></description></item><item><title>コードハイライトテスト</title><link>https://zrs.me/ja/code-highlighting-test/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/ja/code-highlighting-test/</guid><description>&lt;h1 id="コードハイライトテスト">コードハイライトテスト&lt;/h1>
 &lt;p>この記事は新しいコードハイライト機能をテストするために使用されます。シンタックスハイライト、コピーボタン、言語表示などが含まれます。&lt;/p>
