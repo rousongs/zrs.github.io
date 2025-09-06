@@ -1694,7 +1694,7 @@ function test() {
  aria-labelledby="alert-0-title">
  
  &lt;div
- class=" flex items-center justify-between px-6 pt-6 pb-3"
+ class=" flex items-center justify-between px-6 py-6"
  >
  &lt;div class="flex items-center gap-3">
  
@@ -1715,205 +1715,19 @@ function test() {
  class="alert-content px-6 pb-6">
  &lt;div class="prose prose-sm text-foreground/90 max-w-none">
  &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item><item><title>图片渲染测试</title><link>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试">图片渲染测试&lt;/h1>
-&lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/">LightGallery&lt;/a>
-所有图片来自 &lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
-&lt;h2 id="单张图片">单张图片&lt;/h2>
-&lt;p>
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
- alt="https://unsplash.com/@danielleone"
- title="摄影师 - Daniel Leone"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
- data-gallery-alt="https://unsplash.com/@danielleone"
- data-gallery-title="摄影师 - Daniel Leone" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Daniel Leone
- &lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;h2 id="lightgallery-灯箱加-justified-布局">LightGallery 灯箱加 Justified 布局&lt;/h2>
-&lt;p>
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/01.avif"
- alt="https://unsplash.com/@@tobbes_rd"
- title="摄影师 - Tobias Rademacher"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/01.avif"
- data-gallery-alt="https://unsplash.com/@@tobbes_rd"
- data-gallery-title="摄影师 - Tobias Rademacher" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Tobias Rademacher
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/02.avif"
- alt="https://unsplash.com/@therawhunter"
- title="摄影师 - Massimiliano Morosinotto"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/02.avif"
- data-gallery-alt="https://unsplash.com/@therawhunter"
- data-gallery-title="摄影师 - Massimiliano Morosinotto" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Massimiliano Morosinotto
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/03.avif"
- alt="https://unsplash.com/@thesaboo"
- title="摄影师 - Sascha Bosshard"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/03.avif"
- data-gallery-alt="https://unsplash.com/@thesaboo"
- data-gallery-title="摄影师 - Sascha Bosshard" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Sascha Bosshard
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/04.avif"
- alt="https://unsplash.com/@yusufevli"
- title="摄影师 - Yusuf Evli"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/04.avif"
- data-gallery-alt="https://unsplash.com/@yusufevli"
- data-gallery-title="摄影师 - Yusuf Evli" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Yusuf Evli
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/05.avif"
- alt="https://unsplash.com/@flovayn"
- title="摄影师 - Jay Mantri"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/05.avif"
- data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="摄影师 - Jay Mantri" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Jay Mantri
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/06.avif"
- alt="https://unsplash.com/@flovayn"
- title="摄影师 - Florian van Duyn"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/06.avif"
- data-gallery-alt="https://unsplash.com/@flovayn"
- data-gallery-title="摄影师 - Florian van Duyn" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Florian van Duyn
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/07.avif"
- alt="https://unsplash.com/@juanster"
- title="摄影师 - Juan Davila"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/07.avif"
- data-gallery-alt="https://unsplash.com/@juanster"
- data-gallery-title="摄影师 - Juan Davila" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - Juan Davila
- &lt;/figcaption>&lt;/figure>
-
-&lt;figure class="image-figure not-prose my-8" 
- data-lightbox-enabled="false"
- data-gallery-type="auto">
- &lt;div class="image-container">
- &lt;img
- src="https://zrs.me/images/08.avif"
- alt="https://unsplash.com/@davidmarcu"
- title="摄影师 - David Marcu"
- 
- 
- 
- 
- loading="lazy"
- decoding="async"
- data-gallery-src="https://zrs.me/images/08.avif"
- data-gallery-alt="https://unsplash.com/@davidmarcu"
- data-gallery-title="摄影师 - David Marcu" />&lt;/div>
-
- &lt;figcaption class="image-caption">
- 摄影师 - David Marcu
- &lt;/figcaption>&lt;/figure>&lt;/p></description></item></channel></rss>
+&lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
+ class="relative inline-flex items-center"
+>LightGallery
+ &lt;svg id="external-link" class="h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>
+所有图片来自 &lt;a href="https://unsplash.com/"target="_blank"
+ class="relative inline-flex items-center"
+>Unsplash
+ &lt;svg id="external-link" class="h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3"
+ fill="none"
+ stroke="currentColor"
+ viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>&lt;/p></description></item></channel></rss>

@@ -13,7 +13,7 @@
  aria-labelledby="alert-0-title">
  
  &lt;div
- class=" flex items-center justify-between px-6 pt-6 pb-3"
+ class=" flex items-center justify-between px-6 py-6"
  >
  &lt;div class="flex items-center gap-3">
  
