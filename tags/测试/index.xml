@@ -1716,18 +1716,41 @@ function test() {
  &lt;div class="prose prose-sm text-foreground/90 max-w-none">
  &lt;p>这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p></description></item><item><title>图片渲染测试</title><link>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/</guid><description>&lt;h1 id="图片渲染测试">图片渲染测试&lt;/h1>
 &lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
- class="relative inline-flex items-center"
+ class="inline-flex items-center gap-1"
 >LightGallery
- &lt;svg id="external-link" class="h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3"
+ &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
  fill="none"
  stroke="currentColor"
  viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
 &lt;/a>
 所有图片来自 &lt;a href="https://unsplash.com/"target="_blank"
- class="relative inline-flex items-center"
+ class="inline-flex items-center gap-1"
 >Unsplash
- &lt;svg id="external-link" class="h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3"
+ &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
  fill="none"
  stroke="currentColor"
  viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
-&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/a>&lt;/p>
+&lt;h2 id="单张图片">单张图片&lt;/h2>
+&lt;p>
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="false"
+ data-gallery-type="auto">
+ &lt;div class="image-container">
+ &lt;img
+ src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ alt="https://unsplash.com/@danielleone"
+ title="摄影师 - Daniel Leone"
+ 
+ 
+ 
+ 
+ loading="lazy"
+ decoding="async"
+ data-gallery-src="https://zrs.me/%E5%9B%BE%E7%89%87%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95/bundle.avif"
+ data-gallery-alt="https://unsplash.com/@danielleone"
+ data-gallery-title="摄影师 - Daniel Leone" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Daniel Leone
+ &lt;/figcaption>&lt;/figure>&lt;/p></description></item></channel></rss>
